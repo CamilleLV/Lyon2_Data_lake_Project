@@ -16,13 +16,16 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 
 #-- Initialisation des variables
+# Path LANDING ZONE
 myPathHtmlIn = "./DATALAKE/1_LANDING_ZONE"
-myPathHtmlOut = "./DATALAKE/2_CURATED_ZONE"
 
+
+# Path sous repertoires LANDING ZONE
 myPathLandingZoneGlassdoorAVIS = "./DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVIS"
 myPathLandingZoneGlassdoorSOC = "./DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC"
 myPathLandingZoneLinkedInEMP = "./DATALAKE/1_LANDING_ZONE/LINKEDIN/EMP"
 
+# Path CURATED ZONE (Déplacé dans le dossier METADATA pour centraliser les fichiers CSV de métadonnées)
 myPathCuratedZone = "./DATALAKE/00_METADATA"
 
 #==============================================================================

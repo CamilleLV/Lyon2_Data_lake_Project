@@ -17,11 +17,12 @@ myListOfFileTmp = []
 
 
 #-- Chemin vers le dossier où se trouvent les fichiers HTML à aller déposer dans la Landing Zone
-myPathHtmlIn = "DATALAKE/0_SOURCE_WEB"# "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/0_SOURCE_WEB" #"C:/TD_DATALAKE/DATALAKE/0_SOURCE_WEB/"
-
+myPathHtmlIn = "DATALAKE/0_SOURCE_WEB"
+# C:\Users\camil\Cours\Lyon 2\Données massives\Lyon2_Data_lake_Project\DATALAKE\0_SOURCE_WEB
 
 # Ecriture des métadonnées dans le fichier CSV
-metadata_file_path = "DATALAKE/00_METADATA/METADATA_LANDING_ZONE.csv"#"TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/00_METADATA/METADATA_LANDING_ZONE.csv"
+metadata_file_path = "DATALAKE/00_METADATA/METADATA_LANDING_ZONE.csv"
+# C:\Users\camil\Cours\Lyon 2\Données massives\Lyon2_Data_lake_Project\DATALAKE\1_LANDING_ZONE
     
 
 #-- Recupere les noms longs  des fichiers dans le path
