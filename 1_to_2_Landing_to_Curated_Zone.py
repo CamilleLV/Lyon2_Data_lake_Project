@@ -8,6 +8,7 @@ import re
 from bs4 import BeautifulSoup, Tag
 from datetime import datetime
 from dotenv import load_dotenv
+import pandas as pd
 
 load_dotenv()
 
@@ -15,28 +16,88 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 
 #-- Initialisation des variables
-myPathHtmlIn = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/1_LANDING_ZONE"
-myPathHtmlOut = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/2_CURATED_ZONE"
+myPathHtmlIn = "./DATALAKE/1_LANDING_ZONE"
+myPathHtmlOut = "./DATALAKE/2_CURATED_ZONE"
 
-myPathLandingZoneGlassdoorAVIS = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVIS"
-myPathLandingZoneGlassdoorSOC = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC"
-myPathLandingZoneLinkedInEMP = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/LINKEDIN/EMP"
+myPathLandingZoneGlassdoorAVIS = "./DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVIS"
+myPathLandingZoneGlassdoorSOC = "./DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC"
+myPathLandingZoneLinkedInEMP = "./DATALAKE/1_LANDING_ZONE/LINKEDIN/EMP"
 
-# myPathCuratedZoneLinkedInEMP = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/2_CURATED_ZONE/LINKEDIN/EMP"
-# myPathCuratedZoneGlassdoorSOC = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/2_CURATED_ZONE/GLASSDOOR/SOC"
-# myPathCuratedZoneGlassdoorAVIS = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/2_CURATED_ZONE/GLASSDOOR/AVIS"
-myPathCuratedZone = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/00_METADATA"
+myPathCuratedZone = "./DATALAKE/00_METADATA"
+
+#==============================================================================
+#-- Puisque nous avons fait le choix de stocker les données dans des fichiers
+#-- CSV, la "mise à jour" d'une ligne par rapport à un ID est plus complexe.
+#-- Nous supprimons donc dans ce contexte de projet étudiant les lignes
+#-- doublons du fichier METADATA_CURATED_ZONE.csv à la fin de l'éxecution de ce
+#-- script.
+#==============================================================================
+def deduplicate_csv_file(filepath: str, csv_separator: str = ';'):
+    """
+    Lit un fichier CSV sans en-tête, supprime les lignes
+    entièrement identiques, et réécrit le fichier propre.
+    """
+    try:
+        # 1. Lire le fichier CSV
+        # header=None : Spécifie que votre fichier n'a pas de ligne d'en-tête
+        df = pd.read_csv(filepath, sep=csv_separator, header=None, engine='python')
+
+        # 2. Compter les lignes avant suppression
+        rows_before = len(df)
+
+        # 3. Supprimer les doublons (garde la première occurrence par défaut)
+        df_unique = df.drop_duplicates()
+
+        # 4. Compter les lignes après suppression
+        rows_after = len(df_unique)
+
+        # 5. Réécrire le fichier propre
+        # header=False : Ne pas écrire de ligne d'en-tête
+        # index=False : Ne pas écrire l'index de pandas dans le fichier
+        df_unique.to_csv(filepath, sep=csv_separator, header=False, index=False)
+
+        print(f"\nNettoyage des doublons terminé pour : {filepath}")
+        print(f"Lignes avant : {rows_before}")
+        print(f"Lignes supprimées : {rows_before - rows_after}")
+        print(f"Lignes après : {rows_after}")
+
+    except pd.errors.EmptyDataError:
+        # Le fichier est vide, rien à faire
+        print(f"Le fichier {filepath} est vide. Aucun doublon à supprimer.")
+    except Exception as e:
+        print(f"Erreur lors du dédoublonnage du fichier {filepath}: {e}")
 
 
+#==============================================================================
+#-- Fonction permettant de nettoyer les textes récupérés
+#==============================================================================
 def clean_text(s: str) -> str:
     if not s:
-        return ""
-    s = s.replace("\n", " ").replace("\r", " ")  # pas de retours à la ligne
-    s = s.replace('"', '').replace("'", "")      # supprimer quotes
-    s = " ".join(s.split())                      # nettoyer les espaces multiples
+        return "NULL"  # Retourner "NULL" textuel est souvent mieux pour le CSV final que ""
+    
+    # 1. Remplacer les points-virgules par des virgules (CRUCIAL si votre CSV est séparé par ;)
+    s = s.replace(";", ",") 
+    
+    # 2. Remplacer tous les types de retours à la ligne et tabulations par un espace
+    # \r, \n, \t, et le saut de page \f
+    s = s.replace("\n", " ").replace("\r", " ").replace("\t", " ").replace("\f", " ")
+    
+    # 3. Supprimer les guillemets simples et doubles qui cassent souvent les CSV
+    s = s.replace('"', "'").replace("”", "'").replace("“", "'")
+    
+    # 4. Remplacer les espaces insécables (non-breaking space \xa0) qui traînent souvent dans le HTML
+    s = s.replace(u'\xa0', ' ')
+
+    # 5. Nettoyer les espaces multiples (remplace "  " par " ")
+    s = " ".join(s.split())
+    
     return s
 
 
+#==============================================================================
+#-- Crée le prompt pour l'API Gemini pour extraire les informations
+#-- de la description d'une offre d'emploi
+#==============================================================================
 def prompt_gemini_emplois_description(texte_emploi: str):
 
     # Pour l'instant je le laisse désactivé 
@@ -94,9 +155,6 @@ def extraire_nom_entreprise_SOC(objet_html):
         resultat = re.sub(r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', texte_tmp)
     return(resultat)
 
-# print(extraire_nom_entreprise_SOC(objet_parser_html))
-
-
 
 #==============================================================================
 #-- GLASSDOOR (SOCIETE) : Fonction renvoyant la ville de l'entreprise
@@ -111,9 +169,6 @@ def extraire_ville_entreprise_SOC(objet_html):
         texte_tmp_1 = re.sub(r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', texte_tmp)
         resultat = texte_tmp_1
     return(resultat)
-
-# print(extraire_ville_entreprise_SOC(objet_parser_html))
-
 
 
 #==============================================================================
@@ -130,6 +185,7 @@ def extraire_taille_entreprise_SOC(objet_html):
         resultat = texte_tmp_1
     return(resultat)
 
+
 #==============================================================================
 #-- GLASSDOOR (SOCIETE) : Fonction renvoyant la date de création de l'entreprise
 #==============================================================================
@@ -143,26 +199,6 @@ def extraire_date_creation_entreprise_SOC(objet_html):
         texte_tmp_1 = re.sub(r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', texte_tmp)
         resultat = texte_tmp_1
     return(resultat)
-
-#==============================================================================
-#-- GLASSDOOR (SOCIETE) : Fonction renvoyant le siège social
-#==============================================================================
-
-
-#==============================================================================
-#-- GLASSDOOR (SOCIETE) : Fonction renvoyant le type de société
-#==============================================================================
-
-
-#==============================================================================
-#-- GLASSDOOR (SOCIETE) : Fonction renvoyant le secteur de la société
-#==============================================================================
-
-
-#==============================================================================
-#-- GLASSDOOR (SOCIETE) : Fonction renvoyant les distinctions et prix
-#==============================================================================
-
 
 
 #==============================================================================
@@ -179,7 +215,6 @@ def extraire_nom_entreprise_AVI(objet_html):
 # print(extraire_nom_entreprise_AVI(objet_parser_html))
 
 
-
 #==============================================================================
 #-- GLASSDOOR (AVIS) : Fonction renvoyant <Note_moy_entreprise>
 #==============================================================================
@@ -191,6 +226,7 @@ def extraire_note_moy_entreprise_AVI(objet_html):
         resultat = 'NULL'
     return(resultat)
 
+
 #==============================================================================
 #-- GLASSDOOR (AVIS) : Fonction renvoyant sous forme d'une liste les avis
 #                      des employés contenu dans la page web des avis société
@@ -198,8 +234,6 @@ def extraire_note_moy_entreprise_AVI(objet_html):
 def extraire_liste_avis_employes_sur_entreprise_AVI(rev):
     
     objet_html_2 = BeautifulSoup(str(rev), 'html.parser')
-
-    
 
     # 2 - Note de l'avis employe
     # Sélection de toutes les étoiles du bloc principal
@@ -224,16 +258,6 @@ def extraire_liste_avis_employes_sur_entreprise_AVI(rev):
             continue
         else:
             avis_note += 1
-    
-    # 1 - Note moyenne entreprise (sur la page entière)
-    # PAS UTILE DANS LE PROGRAMME ACTUEL CAR ON RECUPERE CETTE INFO AILLEURS
-    # try:
-    #     note = extraire_note_moy_entreprise_AVI(mySoup)
-    #     row.append('"' + str(note) + '"')
-    # except Exception:
-    #     row.append('NULL')
-    
-    # row.append(str(note))
 
     # 5 - Employe actuel (author job title)
     try:
@@ -277,11 +301,10 @@ def extraire_liste_avis_employes_sur_entreprise_AVI(rev):
             texte2 = texte2.replace("Inconvénients", "Inconvénients : ", 1)
     else:
         texte2 = 'NULL'
-    avantages_inconvenients = f"{texte1} {texte2}"
+    avantages_inconvenients = clean_text(f"{texte1} {texte2}")
     
 
     return(avis_note, avis_etat_emploi, avis_ville_emploi, avis_commentaire, avantages_inconvenients)
-#==============================================================================
 
 
 #==============================================================================
@@ -455,7 +478,7 @@ for i in myListOfFileGlassdoorAVIS:
         with open(f"{myPathCuratedZone}/METADATA_CURATED_ZONE.csv", 'a', newline='', encoding='utf-8') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=';')
             # ID LIGNE
-            csvwriter.writerow([f"{1}_{cle_incrementale_AVIS}", "id_avis_soc", cle_incrementale_AVIS_local, "fichier_source", os.path.basename(i)])
+            csvwriter.writerow([f"{1}_{cle_incrementale_AVIS}", "id_avis_soc", cle_incrementale_AVIS, "fichier_source", os.path.basename(i)])
             
             # Nom de la société
             csvwriter.writerow([f"{1}_{cle_incrementale_AVIS}", "nom_societe", nom_societe, "fichier_source", os.path.basename(i)])
@@ -652,3 +675,8 @@ for i in myListOfFileLinkedInEMP:
 
     print('=' * 80)
     cle_incrementale_EMP += 1
+
+#==============================================================================
+#-- Dédoublonnage du fichier METADATA_CURATED_ZONE.csv
+path_metadata_curated_zone = f"{myPathCuratedZone}/METADATA_CURATED_ZONE.csv" 
+deduplicate_csv_file(path_metadata_curated_zone, csv_separator=';')

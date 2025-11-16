@@ -5,99 +5,81 @@
 #-- Import des bibliotheque
 import sys, os, fnmatch
 import datetime
+import shutil
 import csv
-from TD1.fonctions_camille import write_metadata_csv
+from fonctions_camille import write_metadata_csv
+import shutil
+import filecmp
 
 #-- Initialisation des variable
 myListOfFile = []
 myListOfFileTmp = []
 
-myPathHtml = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/0_SOURCE_WEB" #"C:/TD_DATALAKE/DATALAKE/0_SOURCE_WEB/"
-print(myPathHtml)
+
+#-- Chemin vers le dossier où se trouvent les fichiers HTML à aller déposer dans la Landing Zone
+myPathHtmlIn = "DATALAKE/0_SOURCE_WEB"# "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/0_SOURCE_WEB" #"C:/TD_DATALAKE/DATALAKE/0_SOURCE_WEB/"
+
 
 # Ecriture des métadonnées dans le fichier CSV
-metadata_file_path = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/00_METADATA/METADATA_LANDING_ZONE.csv"
+metadata_file_path = "DATALAKE/00_METADATA/METADATA_LANDING_ZONE.csv"#"TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/00_METADATA/METADATA_LANDING_ZONE.csv"
     
 
-
-
 #-- Recupere les noms longs  des fichiers dans le path
-myListOfFileTmp = os.listdir(myPathHtml)
+myListOfFileTmp = os.listdir(myPathHtmlIn)
+
+
 # -- Affichage de la liste des fichiers trouvés
 print("Nb de fichiers trouvés : " + str(len(myListOfFileTmp)))
-# print(myListOfFileTmp)
 
 for myEntry in myListOfFileTmp :
-    # print("Fichier trouvé : " + myEntry)
+    print("Fichier trouvé : " + myEntry)
     myListOfFile.append(myEntry)
 
-#-- Parcour de tous les fichiers trouvés
-# for myEntry in myListOfFileTmp :  
-#     #-- On n'ajoute que les fichiers concernés (INFO-EMP, INFO-SOC, AVIS-SOC)
-#     if fnmatch.fnmatch(myEntry, "*INFO-EMP*.html")==True:
-#         myListOfFile.append(myEntry)
-#     if fnmatch.fnmatch(myEntry, "*INFO-SOC*.html")==True:
-#         myListOfFile.append(myEntry)
-#     if fnmatch.fnmatch(myEntry, "*AVIS-SOC*.html")==True:   
-#         myListOfFile.append(myEntry)
-
-#-- Affichage du résultat
-# for i in myListOfFile : print("Ligne : " + i)
-
-
-# for myFileName in myListOfFile: print(myPathHtml + " --> " + str(myFileName))
-
-#==============================================================================
-###############################################################################
-
-###############################################################################
-#==============================================================================
-#-- Copier des fichier d'une répertoir dans un autre
-#==============================================================================
-import shutil
-import csv
-
-myPathHtmlIn = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/0_SOURCE_WEB"
-
-monPathFile_Test_IN = myPathHtmlIn + "/" + "13799-INFO-EMP-LINKEDIN-FR-1555991658.html"
-monPathFile_Test_OUT = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/LINKEDIN/EMP" + "/" + "monTest.html"
-
-# print(monPathFile_Test_IN)
-# print(monPathFile_Test_OUT)
-
-
-shutil.copy(monPathFile_Test_IN, monPathFile_Test_OUT)
-
 print("Traitement...")
+
+#==============================================================================
+#-- Copie des fichiers dans les bons répertoires de la Landing Zone
+#-- Vérification de la copie et écriture des métadonnées
+#==============================================================================
+compteur = 0
+nbrTotalFichier = len(myListOfFile)
 #--------------
 for monNomDeFichier in myListOfFile: 
+    compteur += 1
+    print("Copie de " + str(compteur) + " fichiers sur " + str(nbrTotalFichier))
+    # ---------------------------------------------
+
     # print("Traitement du fichier :", monNomDeFichier)
     # Si Nom fichier contient "INFO-EMP" et "LINKEDIN" alors copier dans le répertoire LINKEDIN/EMP
     # SI Nom fichier contient "INFO-SOC" et "GLASSDOOR" alors copier dans le répertoire GLASSDOOR/SOC
     # SI Nom fichier contient "AVIS-SOC" et "GLASSDOOR" alors copier dans le répertoire GLASSDOOR/AVIS
     if "INFO-EMP" in monNomDeFichier and "LINKEDIN" in monNomDeFichier :
         # print("Copie dans LINKEDIN/EMP")
-        myPathHtmlOut = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/LINKEDIN/EMP"
+        myPathHtmlOut = "DATALAKE/1_LANDING_ZONE/LINKEDIN/EMP"
     elif "INFO-SOC" in monNomDeFichier and "GLASSDOOR" in monNomDeFichier :
         # print("Copie dans GLASSDOOR/SOC")
-        myPathHtmlOut = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC"
+        myPathHtmlOut = "DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC"
     elif "AVIS-SOC" in monNomDeFichier and "GLASSDOOR" in monNomDeFichier :
         # print("Copie dans GLASSDOOR/AVIS")
-        myPathHtmlOut = "TD1/BIBD_2020_TD_DATALAKE_DATAS_sans_csv/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVIS"
+        myPathHtmlOut = "DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVIS"
     else :
         print("Aucun critère de copie trouvé")
         myPathHtmlOut = ""
     monPathFile_IN = myPathHtmlIn + "/" + monNomDeFichier
     monPathFile_OUT = myPathHtmlOut + "/" + monNomDeFichier
-    # print(monPathFile_IN)
-    # print(monPathFile_OUT)
 
-    
     # ----------------------------------------------------------------
     # Essayer d'effectuer la copie et écrire une erreur en cas d'échec
     # ----------------------------------------------------------------
     try:
         shutil.copy(monPathFile_IN, monPathFile_OUT)
+
+        # ------------------------------
+        # Vérification que le fichier a été copié correctement
+        # ------------------------------
+        if not filecmp.cmp(monPathFile_IN, monPathFile_OUT, shallow=False):
+            raise Exception("Échec de la vérification : les fichiers ne sont pas identiques.")
+        
     except Exception as e:
         print("Erreur lors de la copie :", e)
         # Ajout du statut du déplacement
@@ -116,13 +98,9 @@ for monNomDeFichier in myListOfFile:
     write_metadata_csv(metadata_file_path, monNomDeFichier, "FILE_TYPE", monNomDeFichier.split('.')[-1])
     # Ajout du statut du déplacement
     write_metadata_csv(metadata_file_path, monNomDeFichier, "COPY_STATUS", "SUCCESS")
-
 #--------------
 
+#==============================================================================
 print("Traitement terminé.")
 print("Voir le fichier de métadonnées : " + metadata_file_path)
 #==============================================================================
-
-
-
-###############################################################################
