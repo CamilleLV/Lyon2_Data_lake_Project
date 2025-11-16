@@ -187,10 +187,54 @@ def extraire_taille_entreprise_SOC(objet_html):
 
 
 #==============================================================================
+#-- GLASSDOOR (SOCIETE) : Fonction renvoyant le type de la société
+#==============================================================================
+def extraire_type_entreprise_SOC(objet_html):
+    texte_tmp = str(objet_html.find_all('div', class_="infoEntity")[4].span.contents[0])
+
+    if (texte_tmp == []) : 
+        resultat = 'NULL'
+    else:
+        texte_tmp = str(texte_tmp)
+        texte_tmp_1 = re.sub(r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', texte_tmp)
+        resultat = texte_tmp_1
+    return(resultat)
+
+#==============================================================================
+#-- GLASSDOOR (SOCIETE) : Fonction renvoyant le secteur de la société
+#==============================================================================
+def extraire_secteur_entreprise_SOC(objet_html):
+    texte_tmp = str(objet_html.find_all('div', class_="infoEntity")[5].span.contents[0])
+
+    if (texte_tmp == []) : 
+        resultat = 'NULL'
+    else:
+        texte_tmp = str(texte_tmp)
+        texte_tmp_1 = re.sub(r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', texte_tmp)
+        resultat = texte_tmp_1
+    return(resultat)
+
+
+#==============================================================================
+#-- GLASSDOOR (SOCIETE) : Fonction renvoyant le siège social de la société
+#==============================================================================
+def extraire_siege_social_entreprise_SOC(objet_html):
+    texte_tmp = str(objet_html.find_all('div', class_="infoEntity")[1].span.contents[0])
+
+    if (texte_tmp == []) : 
+        resultat = 'NULL'
+    else:
+        texte_tmp = str(texte_tmp)
+        texte_tmp_1 = re.sub(r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', texte_tmp)
+        resultat = texte_tmp_1
+    return(resultat)
+
+
+#==============================================================================
 #-- GLASSDOOR (SOCIETE) : Fonction renvoyant la date de création de l'entreprise
 #==============================================================================
 def extraire_date_creation_entreprise_SOC(objet_html):
-    texte_tmp = str(objet_html.find_all('div', class_="infoEntity")[2].span.contents[0])
+    texte_tmp = str(objet_html.find_all('div', class_="infoEntity")[3].span.contents[0])
 
     if (texte_tmp == []) : 
         resultat = 'NULL'
@@ -535,6 +579,11 @@ for i in myListOfFileGlassdoorSOC:
     nom_societe = extraire_nom_entreprise_SOC(mySoup)
     ville_entreprise = extraire_ville_entreprise_SOC(mySoup)
     taille_entreprise = extraire_taille_entreprise_SOC(mySoup)
+    type_entreprise = extraire_type_entreprise_SOC(mySoup)
+    secteur_entreprise = extraire_secteur_entreprise_SOC(mySoup)
+    siege_social_entreprise = extraire_siege_social_entreprise_SOC(mySoup)
+    date_creation_entreprise = extraire_date_creation_entreprise_SOC(mySoup)
+
     print("INFOS SOC GLASSDOOR - nom de la société ==> " , nom_societe)
     print("INFOS SOC GLASSDOOR - ville de l'entreprise ==> " , ville_entreprise)
     print("INFOS SOC GLASSDOOR - taille de l'entreprise ==> " , taille_entreprise)
@@ -556,6 +605,17 @@ for i in myListOfFileGlassdoorSOC:
         # Ville de l'entreprise 
         csvwriter.writerow([f"{2}_{cle_incrementale_SOC}", "ville_entreprise", ville_entreprise, "fichier_source", os.path.basename(i)])
 
+        # Type de l'entreprise 
+        csvwriter.writerow([f"{2}_{cle_incrementale_SOC}", "type_entreprise", type_entreprise, "fichier_source", os.path.basename(i)])
+
+        # Secteur de l'entreprise 
+        csvwriter.writerow([f"{2}_{cle_incrementale_SOC}", "secteur_entreprise", secteur_entreprise, "fichier_source", os.path.basename(i)])
+
+        # Siege social de l'entreprise 
+        csvwriter.writerow([f"{2}_{cle_incrementale_SOC}", "siege_social_entreprise", siege_social_entreprise, "fichier_source", os.path.basename(i)])
+
+        # Date de création de l'entreprise 
+        csvwriter.writerow([f"{2}_{cle_incrementale_SOC}", "date_creation_entreprise", date_creation_entreprise, "fichier_source", os.path.basename(i)])
 
     cle_incrementale_SOC += 1
 

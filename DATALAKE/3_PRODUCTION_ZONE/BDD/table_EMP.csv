@@ -1,0 +1,255 @@
+experience_emp;fichier_source;fonction_emp;formation_emp;id_emp;lieu_emp;missions_emp;niveau_hierarchique;nom_societe_gemini;nom_societe_scrap;secteur_emp;soft_skills_emp;technos_emp;titre_emp;type_emp
+;13546-INFO-EMP-LINKEDIN-FR-1599984246.html;Ingénierie;;1;Lyon, FR;;Premier emploi;;Freelance-info.fr;Technologies de l’information;;;Ingénieur Expert(e) Talend (H/F) / Freelance;Temps plein
+;13555-INFO-EMP-LINKEDIN-FR-1602837931.html;Technologies de l’information;;10;Lyon Area, France;;Manager;;Capgemini;Technologies et services de l’information;;;Lead Python Big Data H/F;Temps plein
+;13645-INFO-EMP-LINKEDIN-FR-1613335492.html;Autre;;100;Montrouge, Île-de-France, France;;Premier emploi;;Groupe Crédit Agricole;Technologies de l’information;;;Data Scientist;Temps plein
+;13646-INFO-EMP-LINKEDIN-FR-1599903216.html;Ingénierie;;101;Paris La Défense, Île-de-France, France;;Confirmé;;Altran;Analyste;;;Data Scientist;Temps plein
+;13647-INFO-EMP-LINKEDIN-FR-1607874932.html;Marketing;;102;Roubaix, Nord-Pas-de-Calais, France;;Confirmé;;La Redoute;Technologies de l’information;;;Data Scientist (H/F);Temps plein
+;13648-INFO-EMP-LINKEDIN-FR-1644396429.html;Ingénierie;;103;Région de Paris, France;;Confirmé;;Openvalue;Technologies de l’information;;;Data Scientist;Temps plein
+;13649-INFO-EMP-LINKEDIN-FR-1602629908.html;Technologies de l’information;;104;Malakoff, FR;;Premier emploi;;Openfield;Gestion des associations et fondations;;;Data Engineer (H/F) – Stage / Alternance;Temps plein
+;13650-INFO-EMP-LINKEDIN-FR-1586966832.html;Ingénierie;;105;Neuilly-sur-Seine, FR;;Premier emploi;;SEPHORA;Technologies de l’information;;;CDI - DATA SCIENTIST (F/H);Temps plein
+;13651-INFO-EMP-LINKEDIN-FR-1602795809.html;Technologies de l’information;;106;Paris, FR;;Stagiaire;;Artefact;Marketing et publicité;;;Intern Data Consultant;Stagiaire / Alternant
+;13652-INFO-EMP-LINKEDIN-FR-1602923328.html;Ingénierie;;107;Paris, FR;;Stagiaire;;Artefact;Technologies de l’information;;;Intern Data Scientist;Stagiaire / Alternant
+;13653-INFO-EMP-LINKEDIN-FR-1599900563.html;Technologies de l’information;;108;Région de Paris, France;;Confirmé;;Morgan Philips Group;Articles de luxe et bijouterie;;;Architecte Urbaniste d’Entreprise;Temps plein
+;13654-INFO-EMP-LINKEDIN-FR-1599900656.html;Technologies de l’information;;109;Région de Paris, France;;Confirmé;;Approach People Recruitment;Divertissements;;;Super opportunité pour Data Engineer – Pure player Foodtech – H/F;Temps plein
+;13556-INFO-EMP-LINKEDIN-FR-1637899355.html;Ingénierie;;11;Lyon, FR;;Premier emploi;;Alptis;Technologies de l’information;;;Stagiaire Data Science H/F;Temps plein
+;13655-INFO-EMP-LINKEDIN-FR-1583070005.html;Technologies de l’information;;110;Région de Paris, France;;Confirmé;;Thales;Technologies et services de l’information;;;Ingénieur JAVA / Angular -  Confirmé H/F;Temps plein
+;13656-INFO-EMP-LINKEDIN-FR-1582174574.html;Conseil;;111;Région de Paris, France;;Confirmé;;D2SI;Technologies de l’information;;;Big data Engineer;Temps plein
+;13657-INFO-EMP-LINKEDIN-FR-1599221020.html;Technologies de l’information;;112;Issy-les-Moulineaux, Île-de-France, France;;Premier emploi;;Accor;Hôtellerie et hébergement;;;Data Engineer (H/F);Temps plein
+;13658-INFO-EMP-LINKEDIN-FR-1582187354.html;Ingénierie;;113;Région de Paris, France;;Confirmé;;Aubay France;Conseil;;;Big Data Engineer;Temps plein
+;13659-INFO-EMP-LINKEDIN-FR-1622604073.html;Ingénierie;;114;Paris, FR;;Premier emploi;;LVMH;Technologies de l’information;;;Stage - Data Scientist H/F;Temps plein
+;13660-INFO-EMP-LINKEDIN-FR-1589527645.html;Technologies de l’information;;115;Lyon, Auvergne-Rhône-Alpes, France;;Confirmé;;WOM Recruitment;Technologies et services de l’information;;;Architecte Data/BI H/F ;Temps plein
+;13661-INFO-EMP-LINKEDIN-FR-1616553459.html;Technologies de l’information;;116;Lyon, FR;;Premier emploi;;Veolia;Technologies et services de l’information;;;Data Analyst-Data Scientist;Temps plein
+;13662-INFO-EMP-LINKEDIN-FR-1645674770.html;Conseil;;117;Région de Paris, France;;Manager;;Awalee Consulting;Ingénierie;;;Data Scientist;Temps plein
+;13663-INFO-EMP-LINKEDIN-FR-1608545171.html;Développement commercial;;118;Lyon, FR;;Confirmé;;Citech;Ventes;;;Consultant Décisionnel (H/F) - Lyon;Temps plein
+;13664-INFO-EMP-LINKEDIN-FR-1608842426.html;Développement commercial;;119;Lyon, FR;;Confirmé;;Citech;Ventes;;;Consultant Décisionnel (H/F) / Freelance;Temps plein
+;13557-INFO-EMP-LINKEDIN-FR-1644582626.html;Ingénierie;;12;Gradignan, FR;;Premier emploi;;Université de Bordeaux;Technologies de l’information;;;Assistant ingénieur en CDD, Administrateur / Concepteur / Développeur SI décisionnel H/F, BAP E;Temps plein
+;13665-INFO-EMP-LINKEDIN-FR-1611024126.html;Conseil;;120;Lyon, FR;;Confirmé;;DeciVision;Technologies de l’information;;;CONSULTANT / CONSULTANTE DÉCISIONNEL - BUSINESS INTELLIGENC (H/F);Temps plein
+;13666-INFO-EMP-LINKEDIN-FR-1617992097.html;Développement commercial;;121;Lyon, FR;;Confirmé;;CITECH;Ventes;;;Consultant Décisionnel (H/F);Temps plein
+;13667-INFO-EMP-LINKEDIN-FR-1564431807.html;Développement commercial;;122;Lyon, FR;;Confirmé;;DeciVision;Ventes;;;Consultant BI confirmé H/F - Lyon;Temps plein
+;13668-INFO-EMP-LINKEDIN-FR-1550369256.html;Développement commercial;;123;Lyon, FR;;Confirmé;;ALTIVIEW;Ventes;;;Consultant Décisionnel;Temps plein
+;13669-INFO-EMP-LINKEDIN-FR-1465801732.html;Ingénierie;;124;Lyon, FR;;Confirmé;;Everwin;Technologies de l’information;;;Consultant intégration progiciel (H/F);Temps plein
+;13670-INFO-EMP-LINKEDIN-FR-1586967443.html;Ingénierie;;125;Neuilly-sur-Seine, FR;;Premier emploi;;SEPHORA;Technologies de l’information;;;Stage - Data Scientist;Temps plein
+;13671-INFO-EMP-LINKEDIN-FR-1599275657.html;Technologies de l’information;;126;Departement des Hauts-de-Seine, FR;;Premier emploi;;AXA en France;Technologies et services de l’information;;;Graduate Program - Data Analyst en santé (F/H);Temps plein
+;13672-INFO-EMP-LINKEDIN-FR-1638767811.html;Ingénierie;;127;Colombes, FR;;Premier emploi;;DATALAKE;Technologies de l’information;;;Développeur Android F/H;Temps plein
+;13673-INFO-EMP-LINKEDIN-FR-1646315355.html;Distribution;;128;Paris, Ile-de-France, France;;Stagiaire;;Lacoste;Confection et mode;;;Stagiaire Data Analyst (F/H);Temps plein
+;13674-INFO-EMP-LINKEDIN-FR-1638331547.html;Ingénierie;;129;Puteaux, FR;;Premier emploi;;Datalake;Technologies de l’information;;;Ingénieur / Ingénieure système informatique;Temps plein
+;13558-INFO-EMP-LINKEDIN-FR-1610492058.html;Ingénierie;;13;Lyon, FR;;Premier emploi;;ADERLY / Invest in Lyon;Technologies de l’information;;;Data scientist en imagerie médicale H/F;Temps plein
+;13675-INFO-EMP-LINKEDIN-FR-1616503045.html;Ingénierie;;130;Paris, FR;;Premier emploi;;Alithya;Technologies de l’information;;;Ingénieur développeur Big Data ;Temps plein
+;13676-INFO-EMP-LINKEDIN-FR-1604826770.html;Ingénierie;;131;Nantes, FR;;Premier emploi;;Sparklane;Technologies de l’information;;;Ingénieur Big Data;Temps plein
+;13677-INFO-EMP-LINKEDIN-FR-1631668386.html;Ingénierie;;132;Paris, FR;;Premier emploi;;INGENIANCE;Technologies de l’information;;;Ingenieur developpement big data;Temps plein
+;13678-INFO-EMP-LINKEDIN-FR-1550925972.html;Conseil;;133;Neuilly-sur-Seine, Île-de-France, France;;Confirmé;;JEMS;Ressources humaines;;;INGÉNIEUR *DEVOPS* H/F;Temps plein
+;13679-INFO-EMP-LINKEDIN-FR-1611009058.html;Technologies de l’information;;134;Paris, FR;;Premier emploi;;Zenly;Logiciels informatiques;;;Data Analyst;CDD ou mission ponctuelle
+;13680-INFO-EMP-LINKEDIN-FR-1595462315.html;Analyste;;135;Paris Area, France;;Manager;;Harnham;Marketing;;;DATA ANALYST SENIOR;Temps plein
+;13681-INFO-EMP-LINKEDIN-FR-1637893990.html;Technologies de l’information;;136;Lyon, FR;;Premier emploi;;Roamler;Marketing et publicité;;;Data Analyst;Temps plein
+;13682-INFO-EMP-LINKEDIN-FR-1569854100.html;Commerce;;137;Neuville-en-Ferrain, Hauts-de-France, France;;Confirmé;;Phildar;Technologies de l’information;;;Data Analyst;Temps plein
+;13683-INFO-EMP-LINKEDIN-FR-1640409256.html;Technologies de l’information;;138;Paris, FR;;Stagiaire;;SmartAdServer;Technologies et services de l’information;;;Data Analyst (Intern);Temps plein
+;13684-INFO-EMP-LINKEDIN-FR-1616553459.html;Technologies de l’information;;139;Lyon, FR;;Premier emploi;;Veolia;Technologies et services de l’information;;;Data Analyst-Data Scientist;Temps plein
+;13559-INFO-EMP-LINKEDIN-FR-1637893990.html;Technologies de l’information;;14;Lyon, FR;;Premier emploi;;Roamler;Marketing et publicité;;;Data Analyst;Temps plein
+;13685-INFO-EMP-LINKEDIN-FR-1638878911.html;Technologies de l’information;;140;Paris, FR;;Premier emploi;;ADD UP;Technologies et services de l’information;;;Data Analyst;Temps plein
+;13686-INFO-EMP-LINKEDIN-FR-1639152129.html;Technologies de l’information;;141;Montpellier, FR;;Premier emploi;;CGIAR;Gestion des associations et fondations;;;Data Analyst;Temps plein
+;13687-INFO-EMP-LINKEDIN-FR-1642799834.html;Technologies de l’information;;142;Paris, FR;;Premier emploi;;Datadog;Technologies et services de l’information;;;Data Analyst - Internal Analytics Platform;Temps plein
+;13688-INFO-EMP-LINKEDIN-FR-1605305598.html;Conseil;;143;75009, Paris, Ile-de-France, France;;Premier emploi;;TSC;Analyste;;;Consultant Data Analyst;Temps plein
+;13689-INFO-EMP-LINKEDIN-FR-1609097045.html;Analyste;;144;Massy, Ile-de-France, France;;Confirmé;;Osella Technology;Développement commercial;;;Senior Data Analyst;Temps plein
+;13690-INFO-EMP-LINKEDIN-FR-1551287155.html;Technologies de l’information;;145;Paris, FR;;Premier emploi;;Doctolib;Technologies et services de l’information;;;Data Analyst;Temps plein
+;13691-INFO-EMP-LINKEDIN-FR-1640196760.html;Technologies de l’information;;146;Paris, FR;;Stagiaire;;Deliveroo;Technologies et services de l’information;;;Data Analyst Intern;Stagiaire / Alternant
+;13692-INFO-EMP-LINKEDIN-FR-1538113645.html;Analyste;;147;Roubaix, Nord-Pas-de-Calais, France;;Confirmé;;La Redoute;Autre;;;Data Analyst;Temps plein
+;13693-INFO-EMP-LINKEDIN-FR-1573124115.html;Analyste;;148;Le Plessis-Belleville, Picardie, France;;Stagiaire;;CNH Industrial;Ingénierie;;;DATA ANALYST;CDD ou mission ponctuelle
+;13694-INFO-EMP-LINKEDIN-FR-1607883489.html;Technologies de l’information;;149;Paris, FR;;Non pertinent;;Criteo;Internet;;;Data Analyst, Paris;Temps plein
+;13560-INFO-EMP-LINKEDIN-FR-1624194180.html;Ingénierie;;15;Saint-Maurice-sur-Dargoire, FR;;Premier emploi;;MycommunIT;Technologies de l’information;;;DATA SCIENTIST (H/F) - Saint-Maurice;Temps plein
+;13695-INFO-EMP-LINKEDIN-FR-1584291041.html;Technologies de l’information;;150;Paris et périphérie;;Confirmé;;Solocal;Marketing et publicité;;;Data Analyst;Temps plein
+;13696-INFO-EMP-LINKEDIN-FR-1569406855.html;Analyste;;151;Région de Paris, France;;Confirmé;;Contentsquare;Conseil;;;Web Data Analyst;Temps plein
+;13697-INFO-EMP-LINKEDIN-FR-1640599739.html;Technologies de l’information;;152;Paris, FR;;Premier emploi;;EXTERNATIC;Technologies et services de l’information;;;Data analyst;Temps plein
+;13698-INFO-EMP-LINKEDIN-FR-1596028650.html;Technologies de l’information;;153;Bordeaux, Nouvelle-Aquitaine, France;;Confirmé;;Meritis;Management de projet;;;Data Analyst;Temps plein
+;13699-INFO-EMP-LINKEDIN-FR-1613333804.html;Autre;;154;Montrouge, Île-de-France, France;;Premier emploi;;Groupe Crédit Agricole;Technologies de l’information;;;Data Analyst;Temps plein
+;13700-INFO-EMP-LINKEDIN-FR-1607890296.html;Finance;;155;Région de Paris, France;;Confirmé;;Fortuneo;Marketing;;;Data analyst (h/f);Temps plein
+;13701-INFO-EMP-LINKEDIN-FR-1562348530.html;Technologies de l’information;;156;Boulogne-Billancourt, Île-de-France, France;;Stagiaire;;Catalina France;Marketing et publicité;;;DATA ANALYST ;Temps plein
+;13702-INFO-EMP-LINKEDIN-FR-1181391775.html;Ingénierie;;157;Paris, Île-de-France, France;;Confirmé;;Manpower France;Presse écrite;;;DATA Analyst;Temps plein
+;13703-INFO-EMP-LINKEDIN-FR-1638949709.html;Développement commercial;;158;Lyon, FR;;Confirmé;;DeciVision;Ventes;;;Consultant décisionnel Business Intelligence confirmé F/H;Temps plein
+;13704-INFO-EMP-LINKEDIN-FR-1646252993.html;Développement commercial;;159;Lyon 01, FR;;Confirmé;;Smily Rh;Ventes;;;Consultant / Consultante décisionnel - Business Intelligence (H/F);Temps plein
+;13561-INFO-EMP-LINKEDIN-FR-1390703995.html;Développement commercial;;16;Lille, FR;;Premier emploi;;Harnham;Ventes;;;INGÉNIEUR DÉCISIONNEL BI;Temps plein
+;13705-INFO-EMP-LINKEDIN-FR-1602917662.html;Autre;;160;Lyon, FR;;Non pertinent;;WiSH RECRUTEMENT;Recrutement;;;Chargé(e) de Projet Décisionnel / Data Manager (H/F);Temps plein
+;13706-INFO-EMP-LINKEDIN-FR-1640475021.html;Conseil;;161;Lyon, FR;;Confirmé;;Danem People Group - Engineering & Technology Recruitment Specialists;Technologies de l’information;;;Consultant(e) Décisionnel BI F/H;Temps plein
+;13707-INFO-EMP-LINKEDIN-FR-1451696009.html;Conseil;;162;Lyon, FR;;Confirmé;;Team Work;Technologies de l’information;;;Consultant(e) Décisionnel Senior - Business Intelligence;Temps plein
+;13708-INFO-EMP-LINKEDIN-FR-1575170312.html;Développement commercial;;163;Lyon, FR;;Confirmé;;Freelance-info.fr;Ventes;;;Consultant Décisionnel (H/F) / Freelance;Temps plein
+;13709-INFO-EMP-LINKEDIN-FR-1606951136.html;Développement commercial;;164;Lyon, FR;;Manager;;CITECH;Ventes;;;Consultant Décisionnel (H/F);Temps plein
+;13710-INFO-EMP-LINKEDIN-FR-1640585826.html;Développement commercial;;165;Villeurbanne, FR;;Confirmé;;Amiltone;Ventes;;;Consultant décisionnel ETL/ESB F/H;Temps plein
+;13711-INFO-EMP-LINKEDIN-FR-1573149650.html;Développement commercial;;166;Lyon, FR;;Confirmé;;Umanis;Ventes;;;CONSULTANT BUSINESS INTELLIGENCE H/F LYON;Temps plein
+;13712-INFO-EMP-LINKEDIN-FR-1599910885.html;Technologies de l’information;;167;Lyon, FR;;Confirmé;;Astek;Conseil;;;Consultant BI / QlickView (F/H);Temps plein
+;13713-INFO-EMP-LINKEDIN-FR-1622737346.html;Développement commercial;;168;Lyon, FR;;Confirmé;;Danem Group;Ventes;;;Consultant BI décisionnel QlikSense F/H;Temps plein
+;13714-INFO-EMP-LINKEDIN-FR-1640739685.html;Développement commercial;;169;Lyon, FR;;Confirmé;;CITECH;Ventes;;;Consultant Décisionnel F/H;Temps plein
+;13562-INFO-EMP-LINKEDIN-FR-1451077490.html;Développement commercial;;17;Lyon, FR;;Premier emploi;;EOLE Consulting;Ventes;;;Ingénieur Décisionnel/BI H/F;Temps plein
+;13715-INFO-EMP-LINKEDIN-FR-1497554899.html;Développement commercial;;170;Lyon, FR;;Non pertinent;;Atos;Ventes;;;Consultant décisionnel / Big Data (H/F);Temps plein
+;13716-INFO-EMP-LINKEDIN-FR-1590167782.html;Développement commercial;;171;Lyon, FR;;Confirmé;;Everwin;Ventes;;;Consultant Decisionnel BI (H/F);Temps plein
+;13717-INFO-EMP-LINKEDIN-FR-1564431808.html;Développement commercial;;172;Lyon, FR;;Confirmé;;DeciVision;Ventes;;;Consultant décisionnel stagiaire H/F - Lyon;Temps plein
+;13718-INFO-EMP-LINKEDIN-FR-1418691215.html;Ingénierie;;173;Région de Lyon, France;;Confirmé;;Smile Open Source Solutions;Technologies et services de l’information;;;CONSULTANT DÉCISIONNEL H/F;Temps plein
+;13719-INFO-EMP-LINKEDIN-FR-1599912507.html;Technologies de l’information;;174;Lyon, FR;;Confirmé;;Astek;Conseil;;;Consultant MS BI (F/H);Temps plein
+;13720-INFO-EMP-LINKEDIN-FR-1566353655.html;Développement commercial;;175;Villeurbanne, FR;;Confirmé;;Micropole;Ventes;;;Consultant décisionnel - H/F;Temps plein
+;13721-INFO-EMP-LINKEDIN-FR-1618418909.html;Ingénierie;;176;Puteaux, FR;;Premier emploi;;Datalake;Technologies de l’information;;;INGÉNIEUR / INGÉNIEURE SYSTÈME INFORMATIQUE (H/F);Temps plein
+;13722-INFO-EMP-LINKEDIN-FR-1582179705.html;Technologies de l’information;;177;Cestas, Nouvelle-Aquitaine, France;;Confirmé;;Lectra;Ingénierie;;;Ingénieur développement data HF;Temps plein
+;13723-INFO-EMP-LINKEDIN-FR-1486245080.html;Ingénierie;;178;Levallois-Perret, FR;;Premier emploi;;Micropole;Technologies de l’information;;;Ingénieur d'Etudes Décisionnel Senior - Data Intelligence H/F;Temps plein
+;13724-INFO-EMP-LINKEDIN-FR-1573136793.html;Ventes;;179;Enghien-les-Bains, Île-de-France, France;;Manager;;Octopeek;Développement commercial;;;Ingénieur d'Affaires Expert BIG DATA/IA;Temps plein
+;13563-INFO-EMP-LINKEDIN-FR-1578578508.html;Technologies de l’information;;18;Lyon, Auvergne-Rhone-Alpes, France;;Premier emploi;;Axway;Études/recherche;;;Big Data Software Developer;Temps plein
+;13725-INFO-EMP-LINKEDIN-FR-1602840347.html;Ingénierie;;180;Nantes, FR;;Confirmé;;Gfi world;Technologies de l’information;;;Ingénieur d'études BI H/F;Temps plein
+;13726-INFO-EMP-LINKEDIN-FR-1610898392.html;Ingénierie;;181;Nantes, FR;;Premier emploi;;Baldwin Partners;Technologies de l’information;;;Ingénieur big data CDI;Temps plein
+;13727-INFO-EMP-LINKEDIN-FR-1607894233.html;Ingénierie;;182;Neuilly-sur-Seine, Île-de-France, France;;Confirmé;;GROUPE M6;Technologies de l’information;;;CDI Ingénieur de Développement / moteurs d'optimisation H/F;Temps plein
+;13728-INFO-EMP-LINKEDIN-FR-1637398350.html;Ingénierie;;183;Paris, FR;;Premier emploi;;Logware;Technologies de l’information;;;Ingénieur Big Data;Temps plein
+;13729-INFO-EMP-LINKEDIN-FR-1451239102.html;Ingénierie;;184;Rennes, FR;;Premier emploi;;Neosoft Solutions Inc;Technologies de l’information;;;Ingénieur Big Data;Temps plein
+;13730-INFO-EMP-LINKEDIN-FR-1635559697.html;Technologies de l’information;;185;Paris 04, Île-de-France, France;;Confirmé;;MFG Labs;Ingénierie;;;Ingénieur Python H/F;Temps plein
+;13731-INFO-EMP-LINKEDIN-FR-1602844051.html;Ingénierie;;186;Lille, FR;;Premier emploi;;Devoteam;Technologies de l’information;;;Ingénieur Big data H/F;Temps plein
+;13732-INFO-EMP-LINKEDIN-FR-1644730945.html;Ingénierie;;187;La Ciotat, FR;;Premier emploi;;CELAD;Technologies de l’information;;;[CDI ou Freelance] Ingénieur développement Python orienté traitement de données et Big Data - H/F;Temps plein
+;13733-INFO-EMP-LINKEDIN-FR-1627370281.html;Études/recherche;;188;Vélizy-Villacoublay, FR;;Non pertinent;;Dassault Systèmes;Design;;;Ingénieur développement Big Data DELMIA R&D H/F;Temps plein
+;13734-INFO-EMP-LINKEDIN-FR-1625731515.html;Ingénierie;;189;Le Mans, FR;;Premier emploi;;Groupe SII;Technologies de l’information;;;Ingénieur développement Big Data;Temps plein
+;13564-INFO-EMP-LINKEDIN-FR-1638814150.html;Ingénierie;;19;Lyon, FR;;Premier emploi;;Soladis;Technologies de l’information;;;Data Scientist F/H;Temps plein
+;13735-INFO-EMP-LINKEDIN-FR-1619981567.html;Ingénierie;;190;Paris, Ile-de-France, France;;Manager;;AnotherBrain;Technologies de l’information;;;Ingénieur.e IA;Temps plein
+;13736-INFO-EMP-LINKEDIN-FR-1559612050.html;Technologies de l’information;;191;Paris, FR;;Premier emploi;;Astek;Conseil;;;Ingénieur étude et développement BIG DATA (H/F);Temps plein
+;13737-INFO-EMP-LINKEDIN-FR-1569461835.html;Technologies de l’information;;192;Bezons, Île-de-France, France;;Confirmé;;Atos;Développement commercial;;;Ingénieur Commercial Big Data/IA (H/F);Temps plein
+;13738-INFO-EMP-LINKEDIN-FR-1609503176.html;Conseil;;193;Sophia Antipolis, FR;;Confirmé;;Altran;Technologies de l’information;;;INGENIEUR EN DEVELOPPEMENT BIG DATA H/F;Temps plein
+;13739-INFO-EMP-LINKEDIN-FR-1596039881.html;Ingénierie;;194;Vernon, FR;;Premier emploi;;SKF Groupe;Technologies de l’information;;;Ingénieur Big Data;Temps plein
+;13740-INFO-EMP-LINKEDIN-FR-1442551628.html;Conseil;;195;Paris 16, Île-de-France, France;;Confirmé;;SOFTEAM Group;Technologies de l’information;;;Ingénieur Big Data;Temps plein
+;13741-INFO-EMP-LINKEDIN-FR-1464692595.html;Technologies de l’information;;196;Région de Paris, France;;Premier emploi;;Thales;Technologies et services de l’information;;;Ingénieur Big Data;Temps plein
+;13742-INFO-EMP-LINKEDIN-FR-1602836742.html;Technologies de l’information;;197;Paris, Île-de-France, France;;Stagiaire;;Keyrus;Technologies et services de l’information;;;Stagiaire Ingénieur d’Affaires H/F #Data & #Digital ;Stagiaire / Alternant
+;13743-INFO-EMP-LINKEDIN-FR-1644551818.html;Technologies de l’information;;198;Paris, FR;;Premier emploi;;Lacoste;Confection et mode;;;Data Analyst;Temps plein
+;13744-INFO-EMP-LINKEDIN-FR-1604783346.html;Ingénierie;;199;Lyon, FR;;Premier emploi;;Davidson consulting;Technologies de l’information;;;Data scientist – Machine learning;Temps plein
+;13547-INFO-EMP-LINKEDIN-FR-1519694389.html;Ventes;;2;Lyon, FR;;Premier emploi;;Groupe PSIH;Développement commercial;;;INGÉNIEUR COMMERCIAL;Temps plein
+;13565-INFO-EMP-LINKEDIN-FR-1450797712.html;Ingénierie;;20;Lyon, FR;;Premier emploi;;BIAL-R;Technologies de l’information;;;Data Scientist (H/F) Lyon;Temps plein
+;13745-INFO-EMP-LINKEDIN-FR-1602072235.html;Ingénierie;;200;Lyon, FR;;Premier emploi;;Novulys;Technologies de l’information;;;Data Scientist H/F;Temps plein
+;13746-INFO-EMP-LINKEDIN-FR-1596475157.html;Ingénierie;;201;Lyon, FR;;Premier emploi;;Flatchr;Technologies de l’information;;;Data Scientist - Stage - (Computer Vision/NLP/Predictive modelling) à Lyon;Temps plein
+;13747-INFO-EMP-LINKEDIN-FR-1555920154.html;Ingénierie;;202;Lyon, FR;;Premier emploi;;Gfi world;Technologies de l’information;;;Data Scientist H/F;Temps plein
+;13748-INFO-EMP-LINKEDIN-FR-1647569045.html;Études/recherche;;203;Dargoire, FR;;Manager;;Bayer;Sciences;;;Biostatistician / Data Scientist (M/F);Temps plein
+;13749-INFO-EMP-LINKEDIN-FR-1616553459.html;Technologies de l’information;;204;Lyon, FR;;Premier emploi;;Veolia;Technologies et services de l’information;;;Data Analyst-Data Scientist;Temps plein
+;13750-INFO-EMP-LINKEDIN-FR-1607857216.html;Ingénierie;;205;Lyon, FR;;Premier emploi;;VINCI Energies;Technologies de l’information;;;PFE Data Scientist - Big Data - IOT F/H;Temps plein
+;13751-INFO-EMP-LINKEDIN-FR-1609505290.html;Autre;;206;Lyon, FR;;Non pertinent;;Volvo Group;Technologies de l’information;;;Data Scientist (H/F);Temps plein
+;13752-INFO-EMP-LINKEDIN-FR-1640458611.html;Ingénierie;;207;Montpellier, FR;;Premier emploi;;2s2i Groupe;Technologies de l’information;;;Ingénieur Décisionnel h/f / Freelance;Temps plein
+;13753-INFO-EMP-LINKEDIN-FR-1640316475.html;Autre;;208;Aix-en-Provence, FR;;Non pertinent;;AVISTO;Technologies et services de l’information;;;Ingénieur(e) décisionnel - BusinessIntelligence;Temps plein
+;13754-INFO-EMP-LINKEDIN-FR-1632460128.html;Ingénierie;;209;Clichy, FR;;Premier emploi;;ILYEUM;Technologies de l’information;;;Ingénieur décisionnel technico-fonctionnel powerBI / SSRS/ Qliksense / Anglais (H/F) / Freelance;Temps plein
+;13566-INFO-EMP-LINKEDIN-FR-1613358196.html;Ingénierie;;21;Lyon, FR;;Non pertinent;;Statkraft;Technologies de l’information;;;Stagiaire - Data Scientist (h/f);Temps plein
+;13755-INFO-EMP-LINKEDIN-FR-1643560284.html;Technologies de l’information;;210;Azur, FR;;Premier emploi;;Acadomia;Technologies et services de l’information;;;INGÉNIEUR DBA DÉCISIONNEL (F/H);Temps plein
+;13756-INFO-EMP-LINKEDIN-FR-1602637167.html;Ingénierie;;211;Montpellier, FR;;Premier emploi;;GFI Group;Technologies de l’information;;;Ingenieur decisionnel;Temps plein
+;13757-INFO-EMP-LINKEDIN-FR-1601610594.html;Ingénierie;;212;Bordeaux, FR;;Premier emploi;;Expectra;Technologies de l’information;;;INGÉNIEUR DÉCISIONNEL (F/H);Temps plein
+;13758-INFO-EMP-LINKEDIN-FR-1633314397.html;Ingénierie;;213;Lille, FR;;Premier emploi;;ICSIS;Technologies de l’information;;;Ingénieur d'Etudes Décisionnel H/F;Temps plein
+;13759-INFO-EMP-LINKEDIN-FR-1481280755.html;Technologies de l’information;;214;Lille, Nord-Pas-de-Calais, France;;Confirmé;;Modis;Technologies et services de l’information;;;Ingénieur étude et développement Décisionnel (H/F);Temps plein
+;13760-INFO-EMP-LINKEDIN-FR-1645146997.html;Ingénierie;;215;Montpellier, FR;;Premier emploi;;GFI;Technologies de l’information;;;INGENIEUR DECISIONNEL (H/F);Temps plein
+;13761-INFO-EMP-LINKEDIN-FR-1599269631.html;Développement commercial;;216;Aix-en-Provence, FR;;Premier emploi;;Freelance-info.fr;Ventes;;;Ingénieur Décisionnel / BI (H/F) / Freelance;Temps plein
+;13762-INFO-EMP-LINKEDIN-FR-1646215303.html;Développement commercial;;217;Aix-en-Provence, FR;;Premier emploi;;BeMore Holding;Ventes;;;Ingénieur Décisionnel / BI (H/F);Temps plein
+;13763-INFO-EMP-LINKEDIN-FR-1638827538.html;Ingénierie;;218;Montpellier, FR;;Premier emploi;;2S2I;Technologies de l’information;;;Ingénieur décisionnel F/H;Temps plein
+;13764-INFO-EMP-LINKEDIN-FR-1640496251.html;Ingénierie;;219;Lille, FR;;Premier emploi;;rh Studio;Technologies de l’information;;;INGENIEUR D'ETUDES DECISIONNEL F/H;Temps plein
+;13567-INFO-EMP-LINKEDIN-FR-1602713384.html;Ingénierie;;22;Lyon, FR;;Premier emploi;;HAVANA IT & APPS;Technologies de l’information;;;Data Scientist (H/F) – Lyon;Temps plein
+;13765-INFO-EMP-LINKEDIN-FR-1490382724.html;Ingénierie;;220;Boulogne-Billancourt, FR;;Premier emploi;;CEGEDIM SRH;Technologies de l’information;;;Ingénieur Décisionnel (H/F) - Boulogne Billancourt (France);Temps plein
+;13766-INFO-EMP-LINKEDIN-FR-1640390734.html;Ingénierie;;221;Talence, FR;;Premier emploi;;CHU de Bordeaux;Technologies de l’information;;;INGENIEUR DECISIONNEL F/H;Temps plein
+;13767-INFO-EMP-LINKEDIN-FR-1644723772.html;Ingénierie;;222;Paris, FR;;Premier emploi;;TV France International;Technologies de l’information;;;Stage ingénieur décisionnel, H/F;Temps plein
+;13768-INFO-EMP-LINKEDIN-FR-1640419997.html;Ingénierie;;223;Courbevoie, FR;;Premier emploi;;Axande;Technologies de l’information;;;Ingénieur décisionnel F/H;Temps plein
+;13769-INFO-EMP-LINKEDIN-FR-1643470843.html;Ingénierie;;224;Mérignac, FR;;Premier emploi;;Banco Cetelem, BNP Paribas Personal Finance;Technologies de l’information;;;Ingénieur Décisionnel H/F;Temps plein
+;13770-INFO-EMP-LINKEDIN-FR-1610806678.html;Développement commercial;;225;Paris, FR;;Confirmé;;Sogia Systeme;Ventes;;;CONSULTANT DECISIONNEL GENIO/OTIC;Temps plein
+;13771-INFO-EMP-LINKEDIN-FR-1638315919.html;Développement commercial;;226;Puteaux, FR;;Confirmé;;PERFECTSIGHT;Ventes;;;Consultant / Consultante décisionnel - Business Intelligence;Temps plein
+;13772-INFO-EMP-LINKEDIN-FR-1602703608.html;Développement commercial;;227;Aix-en-Provence, FR;;Confirmé;;Fitae;Ventes;;;Consultant Décisionnel / Data Scientist (H/F);Temps plein
+;13773-INFO-EMP-LINKEDIN-FR-1580555680.html;Technologies de l’information;;228;Aix-en-Provence, Provence-Alpes-Côte d’Azur, France;;Confirmé;;Montreal Associates;Comptabilité;;;Consultant Décisionnel Qlik ou Power BI;Temps plein
+;13774-INFO-EMP-LINKEDIN-FR-1644139275.html;Conseil;;229;Paris, FR;;Confirmé;;Talea S.r.l.;Technologies de l’information;;;Consultant(e) décisionnel(le) Microsoft BI;Temps plein
+;13568-INFO-EMP-LINKEDIN-FR-1608609400.html;Ingénierie;;23;Lyon, FR;;Premier emploi;;SELESCOPE;Technologies de l’information;;;Data Scientist-Responsable Data Mining h/f;Temps plein
+;13775-INFO-EMP-LINKEDIN-FR-1640475631.html;Développement commercial;;230;Paris, FR;;Confirmé;;TALEA consult;Ventes;;;Consultant Décisionnel Microsoft BI F/H;Temps plein
+;13776-INFO-EMP-LINKEDIN-FR-1497554899.html;Développement commercial;;231;Lyon, FR;;Non pertinent;;Atos;Ventes;;;Consultant décisionnel / Big Data (H/F);Temps plein
+;13777-INFO-EMP-LINKEDIN-FR-1640423629.html;Développement commercial;;232;Marseille, FR;;Confirmé;;Groupe Apsaroke;Ventes;;;Consultant Décisionnel F/H;Temps plein
+;13778-INFO-EMP-LINKEDIN-FR-1640448992.html;Développement commercial;;233;Paris, FR;;Confirmé;;ciorane;Ventes;;;Consultant Décisionnel TALEND F/H;Temps plein
+;13779-INFO-EMP-LINKEDIN-FR-1640213488.html;Développement commercial;;234;Paris, FR;;Confirmé;;aldecis;Ventes;;;Consultant décisionnel BI F/H;Temps plein
+;13780-INFO-EMP-LINKEDIN-FR-1640291833.html;Développement commercial;;235;Paris, FR;;Confirmé;;SudOuest RH;Ventes;;;Consultant Décisionnel F/H;Temps plein
+;13781-INFO-EMP-LINKEDIN-FR-1640425189.html;Développement commercial;;236;Paris, FR;;Confirmé;;AKKA Tech;Ventes;;;Consultant Décisionnel F/H;Temps plein
+;13782-INFO-EMP-LINKEDIN-FR-1564431808.html;Développement commercial;;237;Lyon, FR;;Confirmé;;DeciVision;Ventes;;;Consultant décisionnel stagiaire H/F - Lyon;Temps plein
+;13783-INFO-EMP-LINKEDIN-FR-1645584561.html;Développement commercial;;238;Paris, FR;;Confirmé;;Asigma;Ventes;;;Consultant Decisionnel SAS;Temps plein
+;13784-INFO-EMP-LINKEDIN-FR-1641913818.html;Développement commercial;;239;Saint-Herblain, FR;;Confirmé;;KOBALTT;Ventes;;;Consultant Décisionnel Confirmé (H/F);Temps plein
+;13569-INFO-EMP-LINKEDIN-FR-1647106383.html;Ingénierie;;24;Lyon, FR;;Premier emploi;;Fédération hospitalière de France (FHF);Technologies de l’information;;;Data scientist f/h;Temps plein
+;13785-INFO-EMP-LINKEDIN-FR-1451404661.html;Développement commercial;;240;Paris, FR;;Confirmé;;Valuetis;Ventes;;;Consultant décisionnel;Temps plein
+;13786-INFO-EMP-LINKEDIN-FR-1590048437.html;Développement commercial;;241;Paris, FR;;Confirmé;;Everwin;Ventes;;;Consultant Decisionnel BI (H/F);Temps plein
+;13787-INFO-EMP-LINKEDIN-FR-1418691215.html;Ingénierie;;242;Région de Lyon, France;;Confirmé;;Smile Open Source Solutions;Technologies et services de l’information;;;CONSULTANT DÉCISIONNEL H/F;Temps plein
+;13788-INFO-EMP-LINKEDIN-FR-1599912507.html;Technologies de l’information;;243;Lyon, FR;;Confirmé;;Astek;Conseil;;;Consultant MS BI (F/H);Temps plein
+;13789-INFO-EMP-LINKEDIN-FR-1582115820.html;Conseil;;244;Région de Paris, France;;Confirmé;;Eversa;Réseaux informatiques;;;Consultant Décisionnel Microsoft BI – MSBI (H/F);Temps plein
+;13790-INFO-EMP-LINKEDIN-FR-1644124886.html;Développement commercial;;245;Paris, FR;;Confirmé;;Alteca;Ventes;;;Consultant décisionnel BI (F/H);Temps plein
+;13791-INFO-EMP-LINKEDIN-FR-1468925298.html;Développement commercial;;246;Aix-en-Provence, FR;;Confirmé;;Micropole;Ventes;;;Consultant Décisionnel H/F;Temps plein
+;13792-INFO-EMP-LINKEDIN-FR-1540456511.html;Développement commercial;;247;Saint-Ouen, FR;;Confirmé;;Gfi world;Ventes;;;Consultant décisionnel Informatica H/F;Temps plein
+;13793-INFO-EMP-LINKEDIN-FR-1644761324.html;Développement commercial;;248;Aix-en-Provence, FR;;Confirmé;;BeMore Holding;Ventes;;;Consultant / Consultante décisionnel - Business Intelligence;Temps plein
+;13794-INFO-EMP-LINKEDIN-FR-1599956301.html;Conseil;;249;Région de Paris, France;;Confirmé;;Blue Talent;Assurances;;;Consultant Décisionnel COGNOS / DATASTAGE confirmé F/H;Temps plein
+;13570-INFO-EMP-LINKEDIN-FR-1589595331.html;Secteur industriel;;25;Sainte-Julie, FR;;Non pertinent;;Plastic Omnium;Ingénierie;;;Data Analytics Project Manager - Industry 4.0;Temps plein
+;13795-INFO-EMP-LINKEDIN-FR-1636557107.html;Ingénierie;;250;Mérignac, FR;;Premier emploi;;BNP Paribas Personal Finance;Technologies de l’information;;;Ingénieur Décisionnel H/F;Temps plein
+;13796-INFO-EMP-LINKEDIN-FR-1647505593.html;Ingénierie;;251;Paris, FR;;Premier emploi;;Alteca;Technologies de l’information;;;Stage - Ingénieur d'études décisionnel H/F;Temps plein
+;13797-INFO-EMP-LINKEDIN-FR-1437107058.html;Ingénierie;;252;Montpellier, FR;;Premier emploi;;Gfi world;Technologies de l’information;;;INGENIEUR DECISIONNEL H/F;Temps plein
+;13798-INFO-EMP-LINKEDIN-FR-1497591308.html;Ingénierie;;253;Niort, FR;;Premier emploi;;Micropole;Technologies de l’information;;;Ingénieur Décisionnel - H/F;Temps plein
+;13799-INFO-EMP-LINKEDIN-FR-1555991658.html;Ingénierie;;254;Toulouse, FR;;Premier emploi;;OPEN;Technologies de l’information;;;Ingénieur Décisionnel (H/F);Temps plein
+;13571-INFO-EMP-LINKEDIN-FR-1583080186.html;Technologies de l’information;;26;Lyon, FR;;Premier emploi;;Carriere-info.fr;Technologies et services de l’information;;;Data Steward / Data engineeer;Temps plein
+;13572-INFO-EMP-LINKEDIN-FR-1602644857.html;Technologies de l’information;;27;Lyon, FR;;Premier emploi;;DCS EASYWARE;Technologies et services de l’information;;;Data Analyst confirmé F/H;Temps plein
+;13573-INFO-EMP-LINKEDIN-FR-1602929951.html;Technologies de l’information;;28;Lyon, FR;;Premier emploi;;INTITEK;Technologies et services de l’information;;;Data Analyst F/H;Temps plein
+;13574-INFO-EMP-LINKEDIN-FR-1634138009.html;Technologies de l’information;;29;Écully, FR;;Confirmé;;Feu Vert;Industrie automobile;;;DATA ANALYST JUNIOR (H/F);Temps plein
+;13548-INFO-EMP-LINKEDIN-FR-1638675310.html;Ingénierie;;3;Lyon, FR;;Premier emploi;;CELAD;Technologies de l’information;;;Ingénieur Expert(e) Talend F/H;Temps plein
+;13575-INFO-EMP-LINKEDIN-FR-1647449074.html;Technologies de l’information;;30;Limonest, FR;;Premier emploi;;Adsearch;Technologies et services de l’information;;;DATA ANALYST;Temps plein
+;13576-INFO-EMP-LINKEDIN-FR-1451979173.html;Technologies de l’information;;31;Limonest, FR;;Premier emploi;;Kiss The Bride;Marketing et publicité;;;Data Analyst manager;Temps plein
+;13577-INFO-EMP-LINKEDIN-FR-1646255443.html;Technologies de l’information;;32;Lyon 03, FR;;Premier emploi;;DTA INGENIERIE MEDITERRANEE;Technologies et services de l’information;;;Data analyst;Temps plein
+;13578-INFO-EMP-LINKEDIN-FR-1637893990.html;Technologies de l’information;;33;Lyon, FR;;Premier emploi;;Roamler;Marketing et publicité;;;Data Analyst;Temps plein
+;13579-INFO-EMP-LINKEDIN-FR-1596016475.html;Technologies de l’information;;34;Lyon, Auvergne-Rhône-Alpes, France;;Non pertinent;;BIOASTER;Études/recherche;;;Ingénieur infrastructure et service CLOUD R&D H/F;Temps plein
+;13580-INFO-EMP-LINKEDIN-FR-1623044159.html;Ingénierie;;35;Lyon, FR;;Premier emploi;;SILKHOM - SMART RECRUITMENT;Technologies de l’information;;;ingénieur Java – Editeur de logiciels Big Data/Cloud F/H;Temps plein
+;13581-INFO-EMP-LINKEDIN-FR-1524820953.html;Service clients;;36;69230, Saint-Genis-Laval, Auvergne-Rhone-Alpes, France;;Confirmé;;CNS Communications;Technologies de l’information;;;Ingénieur réseaux;Temps plein
+;13582-INFO-EMP-LINKEDIN-FR-1611007803.html;Ingénierie;;37;Lyon, FR;;Premier emploi;;Business Activ;Technologies de l’information;;;Ingénieur Logiciel - Traitement d'image et Big Data;Temps plein
+;13583-INFO-EMP-LINKEDIN-FR-1602843522.html;Gestion;;38;Lyon, FR;;Premier emploi;;Devoteam;Secteur industriel;;;Ingénieur sécurité infrastructure H/F;Temps plein
+;13584-INFO-EMP-LINKEDIN-FR-1599955384.html;Technologies de l’information;;39;Lyon Area, France;;Premier emploi;;Hermitage Solutions Fr;Ventes;;;Ingénieur avant-vente en Cybersécurité H/F;Temps plein
+;13549-INFO-EMP-LINKEDIN-FR-1638763250.html;Ingénierie;;4;Lyon, FR;;Premier emploi;;CELAD;Technologies de l’information;;;Ingénieur Expert(e) Talend (H/F);Temps plein
+;13585-INFO-EMP-LINKEDIN-FR-1450683034.html;Technologies de l’information;;40;Lyon, FR;;Premier emploi;;HUGGA;Technologies et services de l’information;;;Data Analyst - Start-up dans les objets connectés / Lyon;Temps plein
+;13586-INFO-EMP-LINKEDIN-FR-1559602447.html;Design;;41;Nice, FR;;Non pertinent;;Atos;Art/création;;;STAGE BIGDATA PLATEFORMS - (H/F);Temps plein
+;13587-INFO-EMP-LINKEDIN-FR-1595877705.html;Technologies de l’information;;42;Lyon, FR;;Premier emploi;;ITS;Technologies et services de l’information;;;INGÉNIEUR RÉSEAU H/F - BFI5742;Temps plein
+;13588-INFO-EMP-LINKEDIN-FR-1489228239.html;Analyste;;43;Lyon, FR;;Non pertinent;;Thales;Technologies de l’information;;;Architecte logiciel (H/F);Temps plein
+;13589-INFO-EMP-LINKEDIN-FR-1572087526.html;Ingénierie;;44;Lyon, FR;;Premier emploi;;Groupe CREATIVE;Technologies de l’information;;;Ingénieur en développement Java J2EE full-stack (H/F);Temps plein
+;13590-INFO-EMP-LINKEDIN-FR-1465461379.html;Technologies de l’information;;45;Lyon, FR;;Confirmé;;BIAL-R;Technologies et services de l’information;;;Consultant expert Data et Informatique décisionnelle (H/F) Lyon;Temps plein
+;13591-INFO-EMP-LINKEDIN-FR-1497557216.html;Technologies de l’information;;46;Lyon, FR;;Non pertinent;;Atos;Sécurité informatique et des réseaux;;;Ingénieur informatique industrielle (H/F);Temps plein
+;13592-INFO-EMP-LINKEDIN-FR-1487734181.html;Ingénierie;;47;Lyon, FR;;Premier emploi;;Everteam;Technologies de l’information;;;Ingénieur(e) QA logiciel;Temps plein
+;13593-INFO-EMP-LINKEDIN-FR-1566347092.html;Ingénierie;;48;Lyon 06, FR;;Premier emploi;;Expectra;Technologies de l’information;;;INGÉNIEUR JAVA (F/H);Temps plein
+;13594-INFO-EMP-LINKEDIN-FR-1604015381.html;Ingénierie;;49;Lyon, FR;;Confirmé;;SoftAtHome;Technologies de l’information;;;Senior JAVA Backend Ingénieur - (H/F);Temps plein
+;13550-INFO-EMP-LINKEDIN-FR-1573133460.html;Technologies de l’information;;5;Lyon, FR;;Premier emploi;;Sopra Steria;Environnement et énergies renouvelables;;;Consultant Big Data;Temps plein
+;13595-INFO-EMP-LINKEDIN-FR-1617285899.html;Autre;;50;Lyon, FR;;Premier emploi;;KOBALTT;Technologies et services de l’information;;;Ingénieur Devops (H/F);Temps plein
+;13596-INFO-EMP-LINKEDIN-FR-1555990361.html;Technologies de l’information;;51;Lyon, FR;;Premier emploi;;Carriere-info.fr;Technologies et services de l’information;;;ingénieur informatique Développement Javascript;Temps plein
+;13597-INFO-EMP-LINKEDIN-FR-1096203262.html;Ingénierie;;52;Lyon, FR;;Premier emploi;;Groupe ADAMING;Technologies de l’information;;;Ingénieur Etudes et Développement - Reconversion (69) H/F;Temps plein
+;13598-INFO-EMP-LINKEDIN-FR-1640330606.html;Ingénierie;;53;Lyon, FR;;Premier emploi;;Sept Lieues;Technologies de l’information;;;Ingénieur Logiciel Embarqué - Automobile F/H;Temps plein
+;13599-INFO-EMP-LINKEDIN-FR-1624194363.html;Technologies de l’information;;54;Saint-Maurice-sur-Dargoire, FR;;Premier emploi;;MycommunIT;Technologies et services de l’information;;;INGENIEUR DES SYSTEMES D'INFORMATIONS - MASTER DATA MANAGEMENT (H/F) - Saint-Maurice;Temps plein
+;13600-INFO-EMP-LINKEDIN-FR-1451233659.html;Ingénierie;;55;Lyon, FR;;Confirmé;;Stambia;Technologies de l’information;;;Ingénieur Architecte Java Full Stack;Temps plein
+;13601-INFO-EMP-LINKEDIN-FR-1628385746.html;Ingénierie;;56;Lyon, FR;;Premier emploi;;Adsearch;Technologies de l’information;;;Ingénieur Développement Java Python;Temps plein
+;13602-INFO-EMP-LINKEDIN-FR-1612979912.html;Ingénierie;;57;Lyon, FR;;Premier emploi;;Inria;Technologies de l’information;;;Ingénieur développement sur Grid'5000;Temps plein
+;13603-INFO-EMP-LINKEDIN-FR-1564375879.html;Ingénierie;;58;Lyon, FR;;Premier emploi;;Squadata;Technologies de l’information;;;Adserving / Ingénieur BigData / CDI;Temps plein
+;13604-INFO-EMP-LINKEDIN-FR-1604818595.html;Ingénierie;;59;Lyon, FR;;Premier emploi;;Squadata;Technologies de l’information;;;Adserving / Ingénieur BigData;Temps plein
+;13551-INFO-EMP-LINKEDIN-FR-1602929951.html;Technologies de l’information;;6;Lyon, FR;;Premier emploi;;INTITEK;Technologies et services de l’information;;;Data Analyst F/H;Temps plein
+;13605-INFO-EMP-LINKEDIN-FR-1617151191.html;Ingénierie;;60;Région de Paris, France;;Confirmé;;FinDiT Consulting;Technologies de l’information;;;Data Scientist & UX;Temps plein
+;13606-INFO-EMP-LINKEDIN-FR-1569839108.html;Technologies de l’information;;61;Paris Area, France;;Manager;;Osella Technology;Gestion;;;Chief Technology Officer;Temps plein
+;13607-INFO-EMP-LINKEDIN-FR-1559672806.html;Design;;62;Bezons, FR;;Non pertinent;;Atos;Art/création;;;Stage Cloud & Big Data - (H/F);Temps plein
+;13608-INFO-EMP-LINKEDIN-FR-1618663471.html;Technologies de l’information;;63;Fontenay-sous-Bois, FR;;Non pertinent;;Societe Generale Corporate and Investment Banking - SGCIB;Technologies et services de l’information;;;Stage - Analyste SI-Métier / MOA débutant-(H/F) ;CDD ou mission ponctuelle
+;13609-INFO-EMP-LINKEDIN-FR-1582122565.html;Ingénierie;;64;Viroflay, Île-de-France, France;;Confirmé;;Expertime;Conseil;;;Lead Data Architect;Temps plein
+;13610-INFO-EMP-LINKEDIN-FR-1582189165.html;Technologies de l’information;;65;Évry, Île-de-France, France;;Premier emploi;;Accor;Restauration collective;;;Développeur Talend Big Data H/F;Temps plein
+;13611-INFO-EMP-LINKEDIN-FR-1331158524.html;Ingénierie;;66;Lyon, FR;;Premier emploi;;Urban Linker;Technologies de l’information;;;Développeur Fullstack Python;Temps plein
+;13612-INFO-EMP-LINKEDIN-FR-1643430162.html;Technologies de l’information;;67;Saint-Priest, FR;;Premier emploi;;Intrum-fr;Avocats;;;DATA ANALYST H/F;Temps plein
+;13613-INFO-EMP-LINKEDIN-FR-1437100470.html;Ingénierie;;68;Lyon, FR;;Confirmé;;Urban Linker;Technologies de l’information;;;Développeur Python Django sénior;Temps plein
+;13614-INFO-EMP-LINKEDIN-FR-1589592999.html;Technologies de l’information;;69;Lyon, FR;;Confirmé;;Carriere-info.fr;Technologies et services de l’information;;;Analyste fonctionnel informatique Senior Salesforce;Temps plein
+;13552-INFO-EMP-LINKEDIN-FR-1599166885.html;Autre;;7;Lyon, FR;;Non pertinent;;Adthink;Marketing et publicité;;;OFFRE DE STAGE (H/F) : MACHINE LEARNING - DATA SCIENTIST;Temps plein
+;13615-INFO-EMP-LINKEDIN-FR-1636623683.html;Technologies de l’information;;70;Limonest, FR;;Premier emploi;;Adsearch SAS;Technologies et services de l’information;;;Data analyst h/f;Temps plein
+;13616-INFO-EMP-LINKEDIN-FR-1607807811.html;Développement commercial;;71;Lyon, Auvergne-Rhône-Alpes, France;;Manager;;TLScontact;Responsable produit;;;Head of Products & Partnerships H/F Lyon 3;Temps plein
+;13617-INFO-EMP-LINKEDIN-FR-1566352908.html;Management de projet;;72;Villeurbanne, FR;;Manager;;Micropole;Technologies de l’information;;;Chef de projets Master Data Management H/F;Temps plein
+;13618-INFO-EMP-LINKEDIN-FR-1605797277.html;Technologies de l’information;;73;Écully, FR;;Confirmé;;FeuVert;Industrie automobile;;;DATA ANALYST JUNIOR H/F;Temps plein
+;13619-INFO-EMP-LINKEDIN-FR-1452023237.html;Technologies de l’information;;74;Limonest, FR;;Confirmé;;Kiss The Bride;Marketing et publicité;;;Data Analyst Senior;Temps plein
+;13620-INFO-EMP-LINKEDIN-FR-1557974215.html;Technologies de l’information;;75;Lyon, FR;;Premier emploi;;Sanofi;Industrie pharmaceutique;;;ITS SOC Analyst M/F;Temps plein
+;13621-INFO-EMP-LINKEDIN-FR-1598812999.html;Technologies de l’information;;76;Lyon, FR;;Confirmé;;Feu Vert;Industrie automobile;;;DATA ANALYST JUNIOR H/F;Temps plein
+;13622-INFO-EMP-LINKEDIN-FR-1580548729.html;Gestion;;77;Lyon, Auvergne-Rhône-Alpes, France;;Confirmé;;Cegid;Stratégie/planning;;;Planificateur Support et Data Analyst H/F;Temps plein
+;13623-INFO-EMP-LINKEDIN-FR-1624707100.html;Technologies de l’information;;78;Bron, FR;;Premier emploi;;Cerema;Technologies et services de l’information;;;Analyste de données;Temps plein
+;13624-INFO-EMP-LINKEDIN-FR-1644712187.html;Autre;;79;Lyon, FR;;Non pertinent;;Adthink;Marketing et publicité;;;OFFRE D’EMPLOI (H/F) : MEDIA TRADER et DATA ANALYST;Temps plein
+;13553-INFO-EMP-LINKEDIN-FR-1566950259.html;Ingénierie;;8;Lyon, FR;;Premier emploi;;Groupe SII;Technologies de l’information;;;Développeur Big Data (H/F);Temps plein
+;13625-INFO-EMP-LINKEDIN-FR-1626444838.html;Ingénierie;;80;Paris, FR;;Premier emploi;;Clustree;Technologies de l’information;;;Data Scientist / Data Engineer;Temps plein
+;13626-INFO-EMP-LINKEDIN-FR-1611186233.html;Ingénierie;;81;Paris, FR;;Premier emploi;;PARIS GROUP;Technologies de l’information;;;Data scientist lumiomedical;Temps plein
+;13627-INFO-EMP-LINKEDIN-FR-1325714075.html;Technologies de l’information;;82;Région de Paris, France;;Confirmé;;LittleBigCode;Logiciels informatiques;;;Data Scientist;Temps plein
+;13628-INFO-EMP-LINKEDIN-FR-1599908905.html;Ingénierie;;83;Paris, Île-de-France, France;;Manager;;MFG Labs;Technologies de l’information;;;Lead Data Scientist;Temps plein
+;13629-INFO-EMP-LINKEDIN-FR-1586991262.html;Ingénierie;;84;Paris, FR;;Premier emploi;;C3.ai;Technologies de l’information;;;Data Scientist;Temps plein
+;13630-INFO-EMP-LINKEDIN-FR-1609025951.html;Ingénierie;;85;Courbevoie, FR;;Non pertinent;;NVIDIA;Technologies de l’information;;;Data Scientist – WWFO;Temps plein
+;13631-INFO-EMP-LINKEDIN-FR-1538177251.html;Responsable produit;;86;Nice, Provence-Alpes-Cote d'Azur, France;;Manager;;ABAKA;Ingénierie;;;NLP Data Scientist;Temps plein
+;13632-INFO-EMP-LINKEDIN-FR-1535829222.html;Ingénierie;;87;Paris, FR;;Premier emploi;;Teads.tv;Technologies de l’information;;;Data Scientist;Temps plein
+;13633-INFO-EMP-LINKEDIN-FR-1595461423.html;Analyste;;88;Paris Area, France;;Manager;;Harnham;Marketing;;;DATA SCIENTIST SENIOR;Temps plein
+;13634-INFO-EMP-LINKEDIN-FR-1607857216.html;Ingénierie;;89;Lyon, FR;;Premier emploi;;VINCI Energies;Technologies de l’information;;;PFE Data Scientist - Big Data - IOT F/H;Temps plein
+;13554-INFO-EMP-LINKEDIN-FR-1634138009.html;Technologies de l’information;;9;Écully, FR;;Confirmé;;Feu Vert;Industrie automobile;;;DATA ANALYST JUNIOR (H/F);Temps plein
+;13635-INFO-EMP-LINKEDIN-FR-1566376616.html;Technologies de l’information;;90;Lille Area, France;;Manager;;Osella Technology;Publicité;;;Data Scientist;Temps plein
+;13636-INFO-EMP-LINKEDIN-FR-1546359534.html;Technologies de l’information;;91;Paris Area, France;;Manager;;Fujitsu France;Conseil;;;Data Scientist;Temps plein
+;13637-INFO-EMP-LINKEDIN-FR-1626518610.html;Autre;;92;Strasbourg, Alsace, France;;Confirmé;;Euro Protection Surveillance;Services aux consommateurs;;;DATA SCIENTIST F/H;Temps plein
+;13638-INFO-EMP-LINKEDIN-FR-1509131671.html;Analyste;;93;Paris;;Stagiaire;;PRIORITIS Market Access;Études/recherche;;;Data Scientist;Temps plein
+;13639-INFO-EMP-LINKEDIN-FR-1575149544.html;Technologies de l’information;;94;Paris 02, Île-de-France, France;;Confirmé;;LMACP;Ingénierie;;;Data Scientist;Temps plein
+;13640-INFO-EMP-LINKEDIN-FR-1640330076.html;Ingénierie;;95;Paris, FR;;Premier emploi;;CACIIS;Technologies de l’information;;;Data Scientist (F/H);Temps plein
+;13641-INFO-EMP-LINKEDIN-FR-1609505290.html;Autre;;96;Lyon, FR;;Non pertinent;;Volvo Group;Technologies de l’information;;;Data Scientist (H/F);Temps plein
+;13642-INFO-EMP-LINKEDIN-FR-1589534520.html;Ingénierie;;97;Région de Paris, France;;Manager;;Groupe SeLoger;Technologies de l’information;;;Data Scientist;Temps plein
+;13643-INFO-EMP-LINKEDIN-FR-1572466931.html;Technologies de l’information;;98;Paris, Ile-de-France, France;;Manager;;Glocomms;Ingénierie;;;Data Scientist;Temps plein
+;13644-INFO-EMP-LINKEDIN-FR-1589529874.html;Ingénierie;;99;Paris, Île-de-France, France;;Premier emploi;;Datatorii;Technologies de l’information;;;Data Scientist;Temps plein
