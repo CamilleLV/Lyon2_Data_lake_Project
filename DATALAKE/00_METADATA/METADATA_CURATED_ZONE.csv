@@ -6603,13 +6603,13 @@
 3_1;type_emp;Temps plein;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
 3_1;fonction_emp;Ingénierie;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
 3_1;secteur_emp;Technologies de l’information;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
-3_1;experience_emp;;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
-3_1;formation_emp;;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
-3_1;missions_emp;;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
-3_1;technos_emp;;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
-3_1;soft_skills_emp;;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
+3_1;experience_emp;5;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
+3_1;formation_emp;5;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
+3_1;missions_emp;"""La convergence sur une plate-forme technique unique de l’ensemble des flux EDI existants. La mise en œuvre avec nos partenaires d’EDI disponibles et l’accompagnement de ce processus de bout en bout. Cet accompagnement intègre :la communication et l’explicitation de nos spécifications sur les formats de flux et sur les modalités techniques de communication sécurisée auprès des partenaires concernésla recette des flux produits par nos partenairesl’accompagnement de la mise en production et de l’intégration sous la plate-forme de surveillance et de communication. La participation potentielle à nos projets d’extension de l’offre de service EDI afin de couvrir de nouveaux besoins d’échange de données.""";fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
+3_1;technos_emp;Talend;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
+3_1;soft_skills_emp;Communication;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
 3_1;nom_societe_scrap;Freelance-info.fr;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
-3_1;nom_societe_gemini;;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
+3_1;nom_societe_gemini;CELAD;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
 3_1;niveau_hierarchique;Premier emploi;fichier_source;13546-INFO-EMP-LINKEDIN-FR-1599984246.html
 3_2;id_emp;2;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
 3_2;titre_emp;INGÉNIEUR COMMERCIAL;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
@@ -6618,12 +6618,12 @@
 3_2;fonction_emp;Ventes;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
 3_2;secteur_emp;Développement commercial;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
 3_2;experience_emp;;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
-3_2;formation_emp;;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
-3_2;missions_emp;;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
-3_2;technos_emp;;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
-3_2;soft_skills_emp;;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
+3_2;formation_emp;4/5;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
+3_2;missions_emp;"""Rattaché(e) au Directeur commercial, vous travaillez en binôme avec un ou plusieurs commerciaux. Votre objectif est de développer le chiffre d’affaires de votre secteur. Vous êtes l’interlocuteur privilégié de décideurs de haut niveau (Direction Générale, DAF, DRH).Vous présentez les offres du groupe lors des rendez-vous clients ou prospects (présentiel ou à distance).Vous définissez les besoins clients et le périmètre de leurs projets décisionnels.Vous rédigez des offres commerciales et des réponses aux appels d’offre. Dans le cadre du suivi client, vous assurez la bonne transition des dossiers aux autres services .""";fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
+3_2;technos_emp;Décisionnel;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
+3_2;soft_skills_emp;Bon relationnel;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
 3_2;nom_societe_scrap;Groupe PSIH;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
-3_2;nom_societe_gemini;;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
+3_2;nom_societe_gemini;Groupe PSIH;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
 3_2;niveau_hierarchique;Premier emploi;fichier_source;13547-INFO-EMP-LINKEDIN-FR-1519694389.html
 3_3;id_emp;3;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
 3_3;titre_emp;Ingénieur Expert(e) Talend F/H;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
@@ -6631,13 +6631,13 @@
 3_3;type_emp;Temps plein;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
 3_3;fonction_emp;Ingénierie;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
 3_3;secteur_emp;Technologies de l’information;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
-3_3;experience_emp;;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
-3_3;formation_emp;;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
-3_3;missions_emp;;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
-3_3;technos_emp;;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
-3_3;soft_skills_emp;;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
+3_3;experience_emp;5;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
+3_3;formation_emp;5;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
+3_3;missions_emp;"""La convergence sur une plate-forme technique unique de l’ensemble des flux EDI existants.La mise en œuvre avec nos parten--""";fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
+3_3;technos_emp;Talend;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
+3_3;soft_skills_emp;Expertise;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
 3_3;nom_societe_scrap;CELAD;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
-3_3;nom_societe_gemini;;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
+3_3;nom_societe_gemini;CELAD;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
 3_3;niveau_hierarchique;Premier emploi;fichier_source;13548-INFO-EMP-LINKEDIN-FR-1638675310.html
 3_4;id_emp;4;fichier_source;13549-INFO-EMP-LINKEDIN-FR-1638763250.html
 3_4;titre_emp;Ingénieur Expert(e) Talend (H/F);fichier_source;13549-INFO-EMP-LINKEDIN-FR-1638763250.html
@@ -7107,13 +7107,13 @@
 3_37;type_emp;Temps plein;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
 3_37;fonction_emp;Ingénierie;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
 3_37;secteur_emp;Technologies de l’information;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
-3_37;experience_emp;;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
-3_37;formation_emp;;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
-3_37;missions_emp;;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
-3_37;technos_emp;;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
-3_37;soft_skills_emp;;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
+3_37;experience_emp;2 ans minimum;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
+3_37;formation_emp;5;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
+3_37;missions_emp;"""Recherche des solutions techniques algorithmiques, développement de la suite logiciel, élaboration des solutions d’avenir, participation aux déploiements sur sites clients, appui dans le support technique, documentation et formation des utilisateurs, contribution à la rédaction des offres.""";fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
+3_37;technos_emp;C/C++ et/ou Java;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
+3_37;soft_skills_emp;Polyvalence;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
 3_37;nom_societe_scrap;Business Activ;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
-3_37;nom_societe_gemini;;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
+3_37;nom_societe_gemini;Société High-Tech;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
 3_37;niveau_hierarchique;Premier emploi;fichier_source;13582-INFO-EMP-LINKEDIN-FR-1611007803.html
 3_38;id_emp;38;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
 3_38;titre_emp;Ingénieur sécurité infrastructure H/F;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
@@ -7121,13 +7121,13 @@
 3_38;type_emp;Temps plein;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
 3_38;fonction_emp;Gestion;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
 3_38;secteur_emp;Secteur industriel;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
-3_38;experience_emp;;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
-3_38;formation_emp;;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
-3_38;missions_emp;;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
-3_38;technos_emp;;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
-3_38;soft_skills_emp;;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
+3_38;experience_emp;6-8;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
+3_38;formation_emp;5;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
+3_38;missions_emp;"""Installer et configurer le matériel (routeur, commutateur, pare-feu, Accélérateur de flux étendu (Load-balancer), Passerelle de filtrage web et mail, Wifi, etc.).Gérer les opérations et la continuité des opérations en résolvant les incidents et les problèmes et en gérant les changements.Contribuer à la conception et à l'amélioration de l'infrastructure de réseau et de sécurité Gérer les opérations et la continuité d’activité des équipements de sécurité réseau""";fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
+3_38;technos_emp;Firewall;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
+3_38;soft_skills_emp;Excellent relationnel;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
 3_38;nom_societe_scrap;Devoteam;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
-3_38;nom_societe_gemini;;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
+3_38;nom_societe_gemini;Devoteam;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
 3_38;niveau_hierarchique;Premier emploi;fichier_source;13583-INFO-EMP-LINKEDIN-FR-1602843522.html
 3_39;id_emp;39;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
 3_39;titre_emp;Ingénieur avant-vente en Cybersécurité H/F;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
@@ -7135,13 +7135,13 @@
 3_39;type_emp;Temps plein;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
 3_39;fonction_emp;Technologies de l’information;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
 3_39;secteur_emp;Ventes;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
-3_39;experience_emp;;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
-3_39;formation_emp;;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
-3_39;missions_emp;;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
-3_39;technos_emp;;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
-3_39;soft_skills_emp;;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
+3_39;experience_emp;première expérience réussie;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
+3_39;formation_emp;3/4/5;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
+3_39;missions_emp;"""Présentation des solutions sous tous les formats usuels : rendez-vous commerciaux, réunions techniques approfondies, wébinaires, événements marketing, etc…Démonstration et formation (simple transfert de compétence ou certifiante) aux solutionsIdentification et qualifications techniques d’opportunités chez les partenaires et/ou leurs clientsVeille technologique et concurrentielle""";fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
+3_39;technos_emp;Cybersécurité;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
+3_39;soft_skills_emp;Goût du relationnel;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
 3_39;nom_societe_scrap;Hermitage Solutions Fr;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
-3_39;nom_societe_gemini;;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
+3_39;nom_societe_gemini;Hermitage Solutions;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
 3_39;niveau_hierarchique;Premier emploi;fichier_source;13584-INFO-EMP-LINKEDIN-FR-1599955384.html
 3_40;id_emp;40;fichier_source;13585-INFO-EMP-LINKEDIN-FR-1450683034.html
 3_40;titre_emp;Data Analyst - Start-up dans les objets connectés / Lyon;fichier_source;13585-INFO-EMP-LINKEDIN-FR-1450683034.html
@@ -7541,13 +7541,13 @@
 3_68;type_emp;Temps plein;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
 3_68;fonction_emp;Ingénierie;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
 3_68;secteur_emp;Technologies de l’information;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
-3_68;experience_emp;;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
-3_68;formation_emp;;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
-3_68;missions_emp;;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
-3_68;technos_emp;;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
-3_68;soft_skills_emp;;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
+3_68;experience_emp;Junior ou confirmé;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
+3_68;formation_emp;Non précisé;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
+3_68;missions_emp;"""Participer à l’écriture des spécifications fonctionnelles, Rédiger les spécifications techniques avant l’implémentation, Implémenter les nouvelles fonctionnalités, Corriger les anomalies, Relire le code des autres membres""";fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
+3_68;technos_emp;Python / Django;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
+3_68;soft_skills_emp;Passion pour Python;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
 3_68;nom_societe_scrap;Urban Linker;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
-3_68;nom_societe_gemini;;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
+3_68;nom_societe_gemini;Non précisé;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
 3_68;niveau_hierarchique;Confirmé;fichier_source;13613-INFO-EMP-LINKEDIN-FR-1437100470.html
 3_69;id_emp;69;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
 3_69;titre_emp;Analyste fonctionnel informatique Senior Salesforce;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
@@ -7555,13 +7555,13 @@
 3_69;type_emp;Temps plein;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
 3_69;fonction_emp;Technologies de l’information;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
 3_69;secteur_emp;Technologies et services de l’information;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
-3_69;experience_emp;;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
+3_69;experience_emp;Senior;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
 3_69;formation_emp;;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
-3_69;missions_emp;;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
-3_69;technos_emp;;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
-3_69;soft_skills_emp;;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
+3_69;missions_emp;"""Rédaction et mise à jour de spécifications fonctionnelles détaillées, Rédaction des cahiers de tests, Réalisation des tests fonctionnels, Configuration Salesforce standard (création d’objets / workflows / process builders) et avancée (Flows & correction de Class APEX), Animation de workshops métier, Suivi du développement en relation avec une équipe offshore""";fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
+3_69;technos_emp;Salesforce;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
+3_69;soft_skills_emp;Anglais;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
 3_69;nom_societe_scrap;Carriere-info.fr;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
-3_69;nom_societe_gemini;;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
+3_69;nom_societe_gemini;SIDERLOG Conseil;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
 3_69;niveau_hierarchique;Confirmé;fichier_source;13614-INFO-EMP-LINKEDIN-FR-1589592999.html
 3_70;id_emp;70;fichier_source;13615-INFO-EMP-LINKEDIN-FR-1636623683.html
 3_70;titre_emp;Data analyst h/f;fichier_source;13615-INFO-EMP-LINKEDIN-FR-1636623683.html
@@ -8353,13 +8353,13 @@
 3_126;type_emp;Temps plein;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
 3_126;fonction_emp;Technologies de l’information;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
 3_126;secteur_emp;Technologies et services de l’information;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
-3_126;experience_emp;;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
-3_126;formation_emp;;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
-3_126;missions_emp;;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
-3_126;technos_emp;;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
-3_126;soft_skills_emp;;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
+3_126;experience_emp;Débutant;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
+3_126;formation_emp;5;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
+3_126;missions_emp;"""Maîtrise des données cette première mission consiste à aider le responsable de la gouvernance des données de santé, à consolider les connaissances et la fiabilité des données et à les diffuser auprès de tous les différents acteurs participant au projet afin de leur permettre de tirer le meilleur parti du Datalake Santé Mesure des gains FWA la seconde mission consiste à déclarer les bénéfices, à industrialiser les feuilles de reporting et à rechercher de nouvelles sources de gains""";fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
+3_126;technos_emp;SQL;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
+3_126;soft_skills_emp;Curieux;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
 3_126;nom_societe_scrap;AXA en France;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
-3_126;nom_societe_gemini;;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
+3_126;nom_societe_gemini;AXA France;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
 3_126;niveau_hierarchique;Premier emploi;fichier_source;13671-INFO-EMP-LINKEDIN-FR-1599275657.html
 3_127;id_emp;127;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
 3_127;titre_emp;Développeur Android F/H;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
@@ -8367,13 +8367,13 @@
 3_127;type_emp;Temps plein;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
 3_127;fonction_emp;Ingénierie;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
 3_127;secteur_emp;Technologies de l’information;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
-3_127;experience_emp;;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
-3_127;formation_emp;;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
-3_127;missions_emp;;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
-3_127;technos_emp;;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
-3_127;soft_skills_emp;;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
+3_127;experience_emp;première expérience;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
+3_127;formation_emp;Non précisé;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
+3_127;missions_emp;"""Travailler sur la conception et le développement des applications Proposer de nouvelles solutions/idées Optimisation du contenu et de l'ergonomie Veille technologique""";fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
+3_127;technos_emp;Kotlin, Swift;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
+3_127;soft_skills_emp;Curiosité;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
 3_127;nom_societe_scrap;DATALAKE;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
-3_127;nom_societe_gemini;;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
+3_127;nom_societe_gemini;DATALAKE;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
 3_127;niveau_hierarchique;Premier emploi;fichier_source;13672-INFO-EMP-LINKEDIN-FR-1638767811.html
 3_128;id_emp;128;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
 3_128;titre_emp;Stagiaire Data Analyst (F/H);fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
@@ -8381,13 +8381,13 @@
 3_128;type_emp;Temps plein;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
 3_128;fonction_emp;Distribution;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
 3_128;secteur_emp;Confection et mode;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
-3_128;experience_emp;;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
+3_128;experience_emp;Stagiaire;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
 3_128;formation_emp;;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
-3_128;missions_emp;;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
-3_128;technos_emp;;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
-3_128;soft_skills_emp;;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
+3_128;missions_emp;"""Collecte de données :Vérification de la bonne qualité des données collectées.Mise à jour, audit, correction et amélioration du plan de marquage en collaboration avec le tag specialist. Suivi de Kpis et optimisation de la conversionMise à jour et diffusion des reportings quotidiens, de la « Weekly Digital gazette », et de la Monthly Business Review.Etude et monitoring des comportements des visiteurs, en vue d’optimiser la conversion, le chiffre d’affaires et l’expérience utilisateur sur les sites e-commerce Lacoste des différents pays (Utilisation de Google Analytics, Google Big Query…).Etude sur les comportements des visiteurs selon les différentes sources de trafic et analyse et optimisation des investissements marketing. Développement d’un algorithme de calcul de contribution des différents canaux dans le processus d’achat.Etude sur un modèle statistique explicatif et prédictif de la conversion.Recommandation d’audience à fort potentiel.Gestion de projet sur l’optimisation de la conversion par la mise en place de test AB (Recueil des besoins métiers, suivi de la roadmap, mise en place des tests AB sur l’outil Dynamic Yield, analyse des résultats).Gestion de projet sur la personnalisation on-site. (Recueil des besoins métiers, suivi de la roadmap, mise en place, analyse des résultats) et développement de scénario de personnalisation via Dynamique Yield (Compétence en HTML, CSS et javascript nécessaires).Aider les équipes métiers des différents départements et pays (Europe, Amérique du nord et du sud, Asie, Emirats Arabes) dans leur besoin en terme de report d’activité et d’analyse ad-hoc.Création d’un report « Optimisation de la conversion ».Création de dashboards permettant de piloter l’activité sur un outil de datavisualisation. Projets data :Suivi des projets data en relation avec le département CRM, le département IT, l’agence spécialisée en data  Travail en collaboration avec la BI sur l’intégration des data Web dans le dataLake de l’entreprise.""";fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
+3_128;technos_emp;SQL;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
+3_128;soft_skills_emp;Esprit d’analyse;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
 3_128;nom_societe_scrap;Lacoste;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
-3_128;nom_societe_gemini;;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
+3_128;nom_societe_gemini;Lacoste;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
 3_128;niveau_hierarchique;Stagiaire;fichier_source;13673-INFO-EMP-LINKEDIN-FR-1646315355.html
 3_129;id_emp;129;fichier_source;13674-INFO-EMP-LINKEDIN-FR-1638331547.html
 3_129;titre_emp;Ingénieur / Ingénieure système informatique;fichier_source;13674-INFO-EMP-LINKEDIN-FR-1638331547.html
@@ -8675,13 +8675,13 @@
 3_149;type_emp;Temps plein;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
 3_149;fonction_emp;Technologies de l’information;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
 3_149;secteur_emp;Internet;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
-3_149;experience_emp;;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
-3_149;formation_emp;;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
-3_149;missions_emp;;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
-3_149;technos_emp;;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
-3_149;soft_skills_emp;;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
+3_149;experience_emp;Non précisé;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
+3_149;formation_emp;Non précisé;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
+3_149;missions_emp;"""Extraire des informations des données pour soutenir la stratégie client, développer des outils et rapports internes, trouver de nouvelles opportunités de croissance, travailler sur des problèmes commerciaux en partenariat avec d'autres équipes, et présenter les résultats aux clients et à la direction""";fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
+3_149;technos_emp;SQL;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
+3_149;soft_skills_emp;Résolution de problèmes;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
 3_149;nom_societe_scrap;Criteo;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
-3_149;nom_societe_gemini;;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
+3_149;nom_societe_gemini;Criteo;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
 3_149;niveau_hierarchique;Non pertinent;fichier_source;13694-INFO-EMP-LINKEDIN-FR-1607883489.html
 3_150;id_emp;150;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
 3_150;titre_emp;Data Analyst;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
@@ -8689,13 +8689,13 @@
 3_150;type_emp;Temps plein;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
 3_150;fonction_emp;Technologies de l’information;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
 3_150;secteur_emp;Marketing et publicité;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
-3_150;experience_emp;;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
-3_150;formation_emp;;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
-3_150;missions_emp;;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
-3_150;technos_emp;;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
-3_150;soft_skills_emp;;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
+3_150;experience_emp;2 à 3 ans;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
+3_150;formation_emp;5;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
+3_150;missions_emp;"""Définition des meilleurs indicateurs d’analyse, Exploration / extraction des données, Production de reportings, Restitution des résultats sous Powerpoint, Diffusion et recommandation stratégique afin de faciliter la prise de décision des clients internes""";fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
+3_150;technos_emp;SQL;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
+3_150;soft_skills_emp;Capacités de compréhension et de synthèse;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
 3_150;nom_societe_scrap;Solocal;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
-3_150;nom_societe_gemini;;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
+3_150;nom_societe_gemini;Pages Jaunes;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
 3_150;niveau_hierarchique;Confirmé;fichier_source;13695-INFO-EMP-LINKEDIN-FR-1584291041.html
 3_151;id_emp;151;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
 3_151;titre_emp;Web Data Analyst;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
@@ -8703,13 +8703,13 @@
 3_151;type_emp;Temps plein;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
 3_151;fonction_emp;Analyste;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
 3_151;secteur_emp;Conseil;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
-3_151;experience_emp;;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
+3_151;experience_emp;2+;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
 3_151;formation_emp;;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
-3_151;missions_emp;;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
-3_151;technos_emp;;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
-3_151;soft_skills_emp;;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
+3_151;missions_emp;"""Conduct website audits along with deep analysis for our clients, suggest ways to improve our methodology, work on AI development projects""";fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
+3_151;technos_emp;SQL;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
+3_151;soft_skills_emp;Consulting;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
 3_151;nom_societe_scrap;Contentsquare;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
-3_151;nom_societe_gemini;;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
+3_151;nom_societe_gemini;Contentsquare;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
 3_151;niveau_hierarchique;Confirmé;fichier_source;13696-INFO-EMP-LINKEDIN-FR-1569406855.html
 3_152;id_emp;152;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
 3_152;titre_emp;Data analyst;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
@@ -8717,13 +8717,13 @@
 3_152;type_emp;Temps plein;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
 3_152;fonction_emp;Technologies de l’information;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
 3_152;secteur_emp;Technologies et services de l’information;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
-3_152;experience_emp;;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
-3_152;formation_emp;;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
-3_152;missions_emp;;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
-3_152;technos_emp;;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
-3_152;soft_skills_emp;;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
+3_152;experience_emp;Non précisé;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
+3_152;formation_emp;Non précisé;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
+3_152;missions_emp;"""Ecrire, modifier, intégrer et mettre à l'essai les développement des logiciels en lien avec votre expertise Concevoir, développer, intégrer ou, selon le mandat, implanter des systèmes en lien avec votre expertise et l'approche privilégiée par le client Assurer la mise à jour des applications existantes Identifier et communiquer les problèmes logiciels, techniques, procédures et solutions auprès de l'équipe projet et/ou client.""";fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
+3_152;technos_emp;Big Data;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
+3_152;soft_skills_emp;Force de proposition;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
 3_152;nom_societe_scrap;EXTERNATIC;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
-3_152;nom_societe_gemini;;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
+3_152;nom_societe_gemini;Momentum;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
 3_152;niveau_hierarchique;Premier emploi;fichier_source;13697-INFO-EMP-LINKEDIN-FR-1640599739.html
 3_153;id_emp;153;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
 3_153;titre_emp;Data Analyst;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
@@ -8731,13 +8731,13 @@
 3_153;type_emp;Temps plein;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
 3_153;fonction_emp;Technologies de l’information;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
 3_153;secteur_emp;Management de projet;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
-3_153;experience_emp;;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
-3_153;formation_emp;;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
-3_153;missions_emp;;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
-3_153;technos_emp;;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
-3_153;soft_skills_emp;;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
+3_153;experience_emp;Non précisé;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
+3_153;formation_emp;Non précisé;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
+3_153;missions_emp;"""Analyse des besoins métiers et techniques";fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
+3_153;technos_emp;Power BI;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
+3_153;soft_skills_emp;Capacité d’analyse;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
 3_153;nom_societe_scrap;Meritis;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
-3_153;nom_societe_gemini;;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
+3_153;nom_societe_gemini;Non précisé;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
 3_153;niveau_hierarchique;Confirmé;fichier_source;13698-INFO-EMP-LINKEDIN-FR-1596028650.html
 3_154;id_emp;154;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
 3_154;titre_emp;Data Analyst;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
@@ -8745,13 +8745,13 @@
 3_154;type_emp;Temps plein;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
 3_154;fonction_emp;Autre;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
 3_154;secteur_emp;Technologies de l’information;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
-3_154;experience_emp;;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
-3_154;formation_emp;;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
-3_154;missions_emp;;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
-3_154;technos_emp;;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
-3_154;soft_skills_emp;;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
+3_154;experience_emp;0 - 2 ans;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
+3_154;formation_emp;5;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
+3_154;missions_emp;"""Réaliser des analyses quantitatives et prospectives ";fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
+3_154;technos_emp;Python, SQL;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
+3_154;soft_skills_emp;Capacité à vulgariser et aisance oratoire;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
 3_154;nom_societe_scrap;Groupe Crédit Agricole;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
-3_154;nom_societe_gemini;;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
+3_154;nom_societe_gemini;Groupe Crédit Agricole;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
 3_154;niveau_hierarchique;Premier emploi;fichier_source;13699-INFO-EMP-LINKEDIN-FR-1613333804.html
 3_155;id_emp;155;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
 3_155;titre_emp;Data analyst (h/f);fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
@@ -8759,13 +8759,13 @@
 3_155;type_emp;Temps plein;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
 3_155;fonction_emp;Finance;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
 3_155;secteur_emp;Marketing;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
-3_155;experience_emp;;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
-3_155;formation_emp;;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
-3_155;missions_emp;;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
-3_155;technos_emp;;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
-3_155;soft_skills_emp;;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
+3_155;experience_emp;Première expérience;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
+3_155;formation_emp;5;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
+3_155;missions_emp;"""Comprendre les besoins métiers et proposer des axes d’analyse, Réaliser des études ad’hoc pour l’ensemble des métiers, Appréhender le comportement de nos clients, Développer et produire des reportings d’activité pour les métiers, Assurer l’activité Support data : extractions et enrichissement de données.""";fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
+3_155;technos_emp;SQL, R, SAS;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
+3_155;soft_skills_emp;Bon relationnel;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
 3_155;nom_societe_scrap;Fortuneo;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
-3_155;nom_societe_gemini;;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
+3_155;nom_societe_gemini;Non spécifié;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
 3_155;niveau_hierarchique;Confirmé;fichier_source;13700-INFO-EMP-LINKEDIN-FR-1607890296.html
 3_156;id_emp;156;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
 3_156;titre_emp;DATA ANALYST ;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
@@ -8773,13 +8773,13 @@
 3_156;type_emp;Temps plein;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
 3_156;fonction_emp;Technologies de l’information;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
 3_156;secteur_emp;Marketing et publicité;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
-3_156;experience_emp;;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
-3_156;formation_emp;;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
-3_156;missions_emp;;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
-3_156;technos_emp;;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
-3_156;soft_skills_emp;;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
+3_156;experience_emp;1-2 ans;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
+3_156;formation_emp;3-5;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
+3_156;missions_emp;"""Prendre les briefs auprès des équipes commerciales sur les enjeux et problématiques clients• Mettre en place des opérations de marketing direct : construction du plan de ciblage et mise en place de témoins• Extraire, analyser et interpréter les résultats des campagnes de marketing direct• Proposer des recommandations de ciblage et d’analyse pour apporter une valeur ajoutée aux clients• Participer à la réalisation des supports de présentations client• Participer à des workshops avec les équipes commerciales et, ponctuellement, à des rendez-vous client• Réaliser des projets d’études statistiques (par exemple, segmentations et scoring)• Challenger et optimiser les process et programmes Analytics existants""";fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
+3_156;technos_emp;SAS;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
+3_156;soft_skills_emp;Aisance relationnelle;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
 3_156;nom_societe_scrap;Catalina France;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
-3_156;nom_societe_gemini;;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
+3_156;nom_societe_gemini;Catalina France;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
 3_156;niveau_hierarchique;Stagiaire;fichier_source;13701-INFO-EMP-LINKEDIN-FR-1562348530.html
 3_157;id_emp;157;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
 3_157;titre_emp;DATA Analyst;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
@@ -8787,13 +8787,13 @@
 3_157;type_emp;Temps plein;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
 3_157;fonction_emp;Ingénierie;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
 3_157;secteur_emp;Presse écrite;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
-3_157;experience_emp;;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
-3_157;formation_emp;;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
-3_157;missions_emp;;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
-3_157;technos_emp;;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
-3_157;soft_skills_emp;;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
+3_157;experience_emp;2+;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
+3_157;formation_emp;5;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
+3_157;missions_emp;"""S’assurer de la qualité et exhaustivité des données collectées, Suivre la performance des indicateurs, Mettre en place une architecture de données cohérente, Répondre à travers des analyses à des questions opérationnelles ou stratégiques""";fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
+3_157;technos_emp;AT Internet / Google Analytics;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
+3_157;soft_skills_emp;Force de propositions;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
 3_157;nom_societe_scrap;Manpower France;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
-3_157;nom_societe_gemini;;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
+3_157;nom_societe_gemini;Non précisé;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
 3_157;niveau_hierarchique;Confirmé;fichier_source;13702-INFO-EMP-LINKEDIN-FR-1181391775.html
 3_158;id_emp;158;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
 3_158;titre_emp;Consultant décisionnel Business Intelligence confirmé F/H;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
@@ -8801,13 +8801,13 @@
 3_158;type_emp;Temps plein;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
 3_158;fonction_emp;Développement commercial;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
 3_158;secteur_emp;Ventes;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
-3_158;experience_emp;;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
-3_158;formation_emp;;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
-3_158;missions_emp;;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
-3_158;technos_emp;;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
-3_158;soft_skills_emp;;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
+3_158;experience_emp;expérience sur des projets décisionnels;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
+3_158;formation_emp;supérieure;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
+3_158;missions_emp;"""l’implémentation technique des solutions SAP Business Objects la formation des utilisateurs et membres de la DSI la mise en place de projets Data Warehouse (Conception, Modélisation et Réalisation)""";fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
+3_158;technos_emp;SAP Business Objects;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
+3_158;soft_skills_emp;relation durable avec les clients;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
 3_158;nom_societe_scrap;DeciVision;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
-3_158;nom_societe_gemini;;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
+3_158;nom_societe_gemini;DeciVision;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
 3_158;niveau_hierarchique;Confirmé;fichier_source;13703-INFO-EMP-LINKEDIN-FR-1638949709.html
 3_159;id_emp;159;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
 3_159;titre_emp;Consultant / Consultante décisionnel - Business Intelligence (H/F);fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
@@ -8815,13 +8815,13 @@
 3_159;type_emp;Temps plein;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
 3_159;fonction_emp;Développement commercial;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
 3_159;secteur_emp;Ventes;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
-3_159;experience_emp;;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
-3_159;formation_emp;;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
-3_159;missions_emp;;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
-3_159;technos_emp;;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
-3_159;soft_skills_emp;;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
+3_159;experience_emp;3;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
+3_159;formation_emp;3;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
+3_159;missions_emp;"""Recueillir et analyser les besoins auprès des clients, Déterminer des spécifications fonctionnelles et techniques, Assurer la mise en place et le déroulement des projets, Gérer l'implémentation des solutions, Apporter des modifications correctives et évolutives, Prendre en charge des projets de migration, Modéliser et enrichir l'entrepôt de données, Accompagner le client, Intervenir dans la phase de recette, Créer/Modifier des univers SAP BO, Suivre et exploiter les applications BI""";fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
+3_159;technos_emp;SAP BO;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
+3_159;soft_skills_emp;Sens du service;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
 3_159;nom_societe_scrap;Smily Rh;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
-3_159;nom_societe_gemini;;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
+3_159;nom_societe_gemini;Non spécifié;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
 3_159;niveau_hierarchique;Confirmé;fichier_source;13704-INFO-EMP-LINKEDIN-FR-1646252993.html
 3_160;id_emp;160;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
 3_160;titre_emp;Chargé(e) de Projet Décisionnel / Data Manager (H/F);fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
@@ -8829,13 +8829,13 @@
 3_160;type_emp;Temps plein;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
 3_160;fonction_emp;Autre;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
 3_160;secteur_emp;Recrutement;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
-3_160;experience_emp;;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
-3_160;formation_emp;;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
-3_160;missions_emp;;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
-3_160;technos_emp;;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
-3_160;soft_skills_emp;;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
+3_160;experience_emp;Première expérience;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
+3_160;formation_emp;3;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
+3_160;missions_emp;"""Administration de la solution ERP : Paramétrage de la solution, Gestion des droits d’accès, Optimisation des outils déjà déployés, Mise à jour de la documentation technique, Maintien en conditions opérationnelles. Maintenance des données et des interfaces : Réalisation de cahiers des charges, Recueil des données, Organisation des données pour en garantir la qualité, Mise à jour des bases, Sécurisation durable des tables, Analyse et vulgarisation des résultats.""";fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
+3_160;technos_emp;Retail CEGID Y2;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
+3_160;soft_skills_emp;Communication;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
 3_160;nom_societe_scrap;WiSH RECRUTEMENT;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
-3_160;nom_societe_gemini;;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
+3_160;nom_societe_gemini;Non spécifié;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
 3_160;niveau_hierarchique;Non pertinent;fichier_source;13705-INFO-EMP-LINKEDIN-FR-1602917662.html
 3_161;id_emp;161;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
 3_161;titre_emp;Consultant(e) Décisionnel BI F/H;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
@@ -8843,13 +8843,13 @@
 3_161;type_emp;Temps plein;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
 3_161;fonction_emp;Conseil;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
 3_161;secteur_emp;Technologies de l’information;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
-3_161;experience_emp;;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
-3_161;formation_emp;;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
-3_161;missions_emp;;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
-3_161;technos_emp;;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
-3_161;soft_skills_emp;;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
+3_161;experience_emp;3;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
+3_161;formation_emp;5;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
+3_161;missions_emp;"""Accompagner les clients dans leurs projets de création ou d’améliorationde leur informatique décisionnelle. Développer des applications d’analyse de données pertinentes pour lesdifférents acteurs et décideurs du client Accompagner et impliquer le client pendant toute la phase de mise enproduction Assurer la planification en tant que Responsable du pilotage""";fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
+3_161;technos_emp;Qliksense;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
+3_161;soft_skills_emp;Pilotage;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
 3_161;nom_societe_scrap;Danem People Group - Engineering & Technology Recruitment Specialists;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
-3_161;nom_societe_gemini;;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
+3_161;nom_societe_gemini;Non spécifié;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
 3_161;niveau_hierarchique;Confirmé;fichier_source;13706-INFO-EMP-LINKEDIN-FR-1640475021.html
 3_162;id_emp;162;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
 3_162;titre_emp;Consultant(e) Décisionnel Senior - Business Intelligence;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
@@ -8857,13 +8857,13 @@
 3_162;type_emp;Temps plein;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
 3_162;fonction_emp;Conseil;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
 3_162;secteur_emp;Technologies de l’information;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
-3_162;experience_emp;;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
-3_162;formation_emp;;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
-3_162;missions_emp;;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
-3_162;technos_emp;;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
-3_162;soft_skills_emp;;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
+3_162;experience_emp;6;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
+3_162;formation_emp;5;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
+3_162;missions_emp;"""Animer des ateliers fonctionnels, Pilotage / Suivi de projet, Rédaction de spécifications techniques, Implémentation technique des solutions SAP BW / HANA, Réponse aux appels d’offre, La formation des utilisateurs, Monitorer / reprendre les chargements, Prendre en charge les incidents et les évolutions, MCO / Optimisation, Pilotage""";fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
+3_162;technos_emp;SAP BW / HANA;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
+3_162;soft_skills_emp;Communication et relation clientèle;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
 3_162;nom_societe_scrap;Team Work;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
-3_162;nom_societe_gemini;;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
+3_162;nom_societe_gemini;Non spécifié;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
 3_162;niveau_hierarchique;Confirmé;fichier_source;13707-INFO-EMP-LINKEDIN-FR-1451696009.html
 3_163;id_emp;163;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
 3_163;titre_emp;Consultant Décisionnel (H/F) / Freelance;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
@@ -8871,13 +8871,13 @@
 3_163;type_emp;Temps plein;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
 3_163;fonction_emp;Développement commercial;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
 3_163;secteur_emp;Ventes;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
-3_163;experience_emp;;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
-3_163;formation_emp;;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
-3_163;missions_emp;;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
-3_163;technos_emp;;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
-3_163;soft_skills_emp;;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
+3_163;experience_emp;première expérience;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
+3_163;formation_emp;5;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
+3_163;missions_emp;"""Développer le reporting BI pour tous les projets tant en développement qu’en maintenance";fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
+3_163;technos_emp;Superset / Jasper, Cassandra, NIFI, PostgreSQL;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
+3_163;soft_skills_emp;Non spécifié;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
 3_163;nom_societe_scrap;Freelance-info.fr;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
-3_163;nom_societe_gemini;;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
+3_163;nom_societe_gemini;Citech;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
 3_163;niveau_hierarchique;Confirmé;fichier_source;13708-INFO-EMP-LINKEDIN-FR-1575170312.html
 3_164;id_emp;164;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
 3_164;titre_emp;Consultant Décisionnel (H/F);fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
@@ -8885,13 +8885,13 @@
 3_164;type_emp;Temps plein;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
 3_164;fonction_emp;Développement commercial;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
 3_164;secteur_emp;Ventes;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
-3_164;experience_emp;;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
-3_164;formation_emp;;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
-3_164;missions_emp;;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
-3_164;technos_emp;;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
+3_164;experience_emp;Première expérience;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
+3_164;formation_emp;5;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
+3_164;missions_emp;"""Développer le reporting BI pour tous les projets tant en développement qu'en maintenance / DBA pour les développements en cours sur les nouveaux projets / Rapports BI livrés et validés / Correction de rapports pour projets déjà sur le terrain""";fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
+3_164;technos_emp;Superset / Jasper, Cassandra, NIFI et PostgreSQL;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
 3_164;soft_skills_emp;;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
 3_164;nom_societe_scrap;CITECH;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
-3_164;nom_societe_gemini;;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
+3_164;nom_societe_gemini;Citech;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
 3_164;niveau_hierarchique;Manager;fichier_source;13709-INFO-EMP-LINKEDIN-FR-1606951136.html
 3_165;id_emp;165;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
 3_165;titre_emp;Consultant décisionnel ETL/ESB F/H;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
@@ -8899,13 +8899,13 @@
 3_165;type_emp;Temps plein;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
 3_165;fonction_emp;Développement commercial;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
 3_165;secteur_emp;Ventes;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
-3_165;experience_emp;;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
-3_165;formation_emp;;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
-3_165;missions_emp;;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
-3_165;technos_emp;;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
-3_165;soft_skills_emp;;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
+3_165;experience_emp;2;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
+3_165;formation_emp;3;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
+3_165;missions_emp;"""relevons les challenges techniques de nos clients et les accompagnons dans leur transformation digitale""";fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
+3_165;technos_emp;informatique;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
+3_165;soft_skills_emp;curiosité naturelle;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
 3_165;nom_societe_scrap;Amiltone;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
-3_165;nom_societe_gemini;;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
+3_165;nom_societe_gemini;Amiltone;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
 3_165;niveau_hierarchique;Confirmé;fichier_source;13710-INFO-EMP-LINKEDIN-FR-1640585826.html
 3_166;id_emp;166;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
 3_166;titre_emp;CONSULTANT BUSINESS INTELLIGENCE H/F LYON;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
@@ -8913,13 +8913,13 @@
 3_166;type_emp;Temps plein;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
 3_166;fonction_emp;Développement commercial;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
 3_166;secteur_emp;Ventes;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
-3_166;experience_emp;;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
-3_166;formation_emp;;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
-3_166;missions_emp;;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
-3_166;technos_emp;;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
-3_166;soft_skills_emp;;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
+3_166;experience_emp;Première expérience;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
+3_166;formation_emp;2-5;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
+3_166;missions_emp;"""Vous participerez activement aux activités du pole : correction des anomalies, analyse, développement, packaging des livraisons. Vous participerez également à la réalisation des nouvelles versions : recueil de besoin, modélisation, rédaction des spécifications, conception technique, développements, assistance à la recette, assistance à la mise en production.""";fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
+3_166;technos_emp;Microsoft BI;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
+3_166;soft_skills_emp;Résolution de problèmes complexes;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
 3_166;nom_societe_scrap;Umanis;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
-3_166;nom_societe_gemini;;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
+3_166;nom_societe_gemini;Umanis;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
 3_166;niveau_hierarchique;Confirmé;fichier_source;13711-INFO-EMP-LINKEDIN-FR-1573149650.html
 3_167;id_emp;167;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
 3_167;titre_emp;Consultant BI / QlickView (F/H);fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
@@ -8927,13 +8927,13 @@
 3_167;type_emp;Temps plein;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
 3_167;fonction_emp;Technologies de l’information;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
 3_167;secteur_emp;Conseil;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
-3_167;experience_emp;;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
-3_167;formation_emp;;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
-3_167;missions_emp;;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
-3_167;technos_emp;;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
-3_167;soft_skills_emp;;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
+3_167;experience_emp;3;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
+3_167;formation_emp;5;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
+3_167;missions_emp;"""Analysez les besoins des utilisateurs, Rédigez des spécifications techniques et fonctionnelles, Contribuez à la modélisation et à la réalisation des tableaux de bord, cubes OLAP, dashboards…, Élaborez des cahiers de recette et des tests d’intégration.""";fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
+3_167;technos_emp;QlikView;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
+3_167;soft_skills_emp;qualités relationnelles;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
 3_167;nom_societe_scrap;Astek;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
-3_167;nom_societe_gemini;;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
+3_167;nom_societe_gemini;Astek;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
 3_167;niveau_hierarchique;Confirmé;fichier_source;13712-INFO-EMP-LINKEDIN-FR-1599910885.html
 3_168;id_emp;168;fichier_source;13713-INFO-EMP-LINKEDIN-FR-1622737346.html
 3_168;titre_emp;Consultant BI décisionnel QlikSense F/H;fichier_source;13713-INFO-EMP-LINKEDIN-FR-1622737346.html
@@ -10075,13 +10075,13 @@
 3_249;type_emp;Temps plein;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
 3_249;fonction_emp;Conseil;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
 3_249;secteur_emp;Assurances;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
-3_249;experience_emp;;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
-3_249;formation_emp;;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
-3_249;missions_emp;;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
-3_249;technos_emp;;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
-3_249;soft_skills_emp;;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
+3_249;experience_emp;5 ans minimum;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
+3_249;formation_emp;5;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
+3_249;missions_emp;"""Prendre en charge les besoins métiers, Rédiger des spécifications techniques & fonctionnelles détaillées, Modéliser la base décisionnelle pour les données, Concevoir et Développer les reportings et l'intégration des flux de données, Tester puis Recetter en relation avec les utilisateurs, Assister les utilisateurs, Assurer une veille technologique""";fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
+3_249;technos_emp;COGNOS, DATASTAGE;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
+3_249;soft_skills_emp;excellent relationnel;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
 3_249;nom_societe_scrap;Blue Talent;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
-3_249;nom_societe_gemini;;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
+3_249;nom_societe_gemini;Non spécifié;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
 3_249;niveau_hierarchique;Confirmé;fichier_source;13794-INFO-EMP-LINKEDIN-FR-1599956301.html
 3_250;id_emp;250;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
 3_250;titre_emp;Ingénieur Décisionnel H/F;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
@@ -10089,13 +10089,13 @@
 3_250;type_emp;Temps plein;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
 3_250;fonction_emp;Ingénierie;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
 3_250;secteur_emp;Technologies de l’information;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
-3_250;experience_emp;;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
-3_250;formation_emp;;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
-3_250;missions_emp;;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
-3_250;technos_emp;;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
-3_250;soft_skills_emp;;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
+3_250;experience_emp;Non spécifié;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
+3_250;formation_emp;Non spécifié;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
+3_250;missions_emp;"""Vous êtes le maitre d’orchestre en termes d’évolutions des outils décisionnels (Bases de données, Outils CRM), vous recueillez et analysez les besoins des équipes marketing ou métiers et définissez le cahier des charges des projets. Vous avez un rôle de maitrise d’ouvrage auprès des développeurs.Vous mettez à jour la documentation en lien avec la MOA, vous organisez des actions de formation et vous assurez le support technique auprès des équipes marketing.Les clients internes vous demanderont régulièrement des fichiers ou base de données afin de suivre leurs campagnes ou les préparer, vous ferez également des chiffrages à la demande. Enfin, vous contribuerez à la réflexion du Groupe sur l'évolution des systèmes et des outils de gestion des bases clients.""";fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
+3_250;technos_emp;UNICA, SAS, BIG DATA;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
+3_250;soft_skills_emp;Relationnel;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
 3_250;nom_societe_scrap;BNP Paribas Personal Finance;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
-3_250;nom_societe_gemini;;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
+3_250;nom_societe_gemini;BNP Paribas Personal Finance;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
 3_250;niveau_hierarchique;Premier emploi;fichier_source;13795-INFO-EMP-LINKEDIN-FR-1636557107.html
 3_251;id_emp;251;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
 3_251;titre_emp;Stage - Ingénieur d'études décisionnel H/F;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
@@ -10103,13 +10103,13 @@
 3_251;type_emp;Temps plein;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
 3_251;fonction_emp;Ingénierie;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
 3_251;secteur_emp;Technologies de l’information;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
-3_251;experience_emp;;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
-3_251;formation_emp;;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
-3_251;missions_emp;;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
-3_251;technos_emp;;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
-3_251;soft_skills_emp;;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
+3_251;experience_emp;Stagiaire;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
+3_251;formation_emp;5;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
+3_251;missions_emp;Envie d'apprendre;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
+3_251;technos_emp;BI;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
+3_251;soft_skills_emp;"""Analyser les systèmes d'information de nos clients, Concevoir, mettre en place et optimiser des systèmes d'intégration de données, Réaliser des tableaux de bord et rapports, Assurer le maintien en condition opérationnelle des systèmes en place, Réaliser des phases de test et de recette, en rédigeant les documentations associées, Assurer un devoir de conseil et d'accompagnement auprès de nos clients.""";fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
 3_251;nom_societe_scrap;Alteca;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
-3_251;nom_societe_gemini;;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
+3_251;nom_societe_gemini;Alteca;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
 3_251;niveau_hierarchique;Premier emploi;fichier_source;13796-INFO-EMP-LINKEDIN-FR-1647505593.html
 3_252;id_emp;252;fichier_source;13797-INFO-EMP-LINKEDIN-FR-1437107058.html
 3_252;titre_emp;INGENIEUR DECISIONNEL H/F;fichier_source;13797-INFO-EMP-LINKEDIN-FR-1437107058.html
@@ -10153,10 +10153,3 @@
 3_254;nom_societe_scrap;OPEN;fichier_source;13799-INFO-EMP-LINKEDIN-FR-1555991658.html
 3_254;nom_societe_gemini;;fichier_source;13799-INFO-EMP-LINKEDIN-FR-1555991658.html
 3_254;niveau_hierarchique;Premier emploi;fichier_source;13799-INFO-EMP-LINKEDIN-FR-1555991658.html
-3_27;titre_emp;;fichier_source;13572-INFO-EMP-LINKEDIN-FR-1602644857.html
-3_27;lieu_emp;;fichier_source;13572-INFO-EMP-LINKEDIN-FR-1602644857.html
-3_27;type_emp;Pas d'informations;fichier_source;13572-INFO-EMP-LINKEDIN-FR-1602644857.html
-3_27;fonction_emp;Pas d'informations;fichier_source;13572-INFO-EMP-LINKEDIN-FR-1602644857.html
-3_27;secteur_emp;Pas d'informations;fichier_source;13572-INFO-EMP-LINKEDIN-FR-1602644857.html
-3_27;nom_societe_scrap;;fichier_source;13572-INFO-EMP-LINKEDIN-FR-1602644857.html
-3_27;niveau_hierarchique;Pas d'informations;fichier_source;13572-INFO-EMP-LINKEDIN-FR-1602644857.html

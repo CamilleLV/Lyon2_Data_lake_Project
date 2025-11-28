@@ -104,7 +104,7 @@ def clean_text(s: str) -> str:
 def prompt_gemini_emplois_description(texte_emploi: str):
 
     # Pour l'instant je le laisse désactivé 
-    return("NULL;NULL;NULL;NULL;NULL;NULL")
+    # return("NULL;NULL;NULL;NULL;NULL;NULL")
     try:
         """
         Génère une description des emplois en utilisant l'API Gemini de Google.
