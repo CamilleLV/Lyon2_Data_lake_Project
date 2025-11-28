@@ -590,7 +590,6 @@ for i in myListOfFileGlassdoorSOC:
     print("INFOS SOC GLASSDOOR - nom de la société ==> " , nom_societe)
     print("INFOS SOC GLASSDOOR - ville de l'entreprise ==> " , ville_entreprise)
     print("INFOS SOC GLASSDOOR - taille de l'entreprise ==> " , taille_entreprise)
-    print("INFOS SOC GLASSDOOR - taille de l'entreprise ==> " , taille_entreprise)
     print('='*80)
 
     with open(f"{myPathCuratedZone}/METADATA_CURATED_ZONE.csv", 'a', newline='', encoding='utf-8') as csvfile:
