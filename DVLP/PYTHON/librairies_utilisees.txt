@@ -1,0 +1,16 @@
+Liste des imports de librairies
+
+import sys
+import os
+import fnmatch
+import datetime
+import shutil
+import csv
+from fonctions_camille import write_metadata_csv, *
+import filecmp
+import google.generativeai as genai
+from dotenv import load_dotenv
+from collections import defaultdict
+import re
+from bs4 import BeautifulSoup, Tag
+import pandas as pd
